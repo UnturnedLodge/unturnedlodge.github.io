@@ -21,7 +21,7 @@ def enrich_shop_entries(entries, category, base_uri, origin)
       'query' => entry_id.to_s,
       'origin' => origin,
       'category' => category,
-      'maxResults' => '1'
+      'maxResults' => '2'
     }
 
     request_uri = base_uri.dup
@@ -43,9 +43,14 @@ def enrich_shop_entries(entries, category, base_uri, origin)
       next unless response.is_a?(Net::HTTPSuccess)
 
       result = JSON.parse(response.body)
-      next unless result.is_a?(Array) && !result.empty? && result.first.is_a?(Hash)
+      next unless result.is_a?(Array) && !result.empty?
 
-      api_entry = result.first
+      api_entry = result.find do |candidate|
+        candidate.is_a?(Hash) && candidate['category'].to_s.casecmp(category).zero?
+      end
+
+      next unless api_entry
+
       entry['iconUrl'] = api_entry['iconUrl'] if api_entry.key?('iconUrl')
       entry['assetType'] = api_entry['assetType'] if api_entry.key?('assetType')
       entry['url'] = api_entry['url'] if api_entry.key?('url')
