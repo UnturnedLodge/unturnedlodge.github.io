@@ -11,6 +11,7 @@ title: Shop prices
 <style>
 	.shop-tabs .nav-tabs {
 		border-bottom: 2px solid var(--main-border-color);
+		margin-bottom: 1rem;
 	}
 
 	.shop-tabs .nav-link {
@@ -131,70 +132,70 @@ title: Shop prices
 		</li>
 	</ul>
 
-	<div class="tab-content pt-3">
+	<div class="tab-content">
 		<div class="tab-pane fade show active" id="items-pane" role="tabpanel" aria-labelledby="items-tab">
 			<div id="shop-items-list">
-	<p>
-		<input class="search form-control" type="search" placeholder="Search items..." aria-label="Search items">
-	</p>
-	<table>
-		<thead>
-			<tr>
-				<th>Icon</th>
-				<th>
-					<button class="sort table-sort-btn" data-sort="item-type" type="button"><span>Type</span><i class="sort-indicator fa-solid fa-sort" aria-hidden="true"></i></button>
-				</th>
-				<th>
-					<button class="sort table-sort-btn" data-sort="item-id" type="button"><span>ID</span><i class="sort-indicator fa-solid fa-sort" aria-hidden="true"></i></button>
-				</th>
-				<th>
-					<button class="sort table-sort-btn" data-sort="item-name" type="button"><span>Item</span><i class="sort-indicator fa-solid fa-sort" aria-hidden="true"></i></button>
-				</th>
-				<th>
-					<button class="sort table-sort-btn" data-sort="item-buy" type="button"><span>Buy</span><i class="sort-indicator fa-solid fa-sort" aria-hidden="true"></i></button>
-				</th>
-				<th>
-					<button class="sort table-sort-btn" data-sort="item-sell" type="button"><span>Sell</span><i class="sort-indicator fa-solid fa-sort" aria-hidden="true"></i></button>
-				</th>
-			</tr>
-		</thead>
-		<tbody class="list">
-			{% if items and items.size > 0 %}
-				{% for item in items %}
-					{% assign item_buy = item.BuyPrice | default: 0 | plus: 0 %}
-					{% assign item_sell = item.SellPrice | default: 0 | plus: 0 %}
-					{% assign item_url = item.url %}
-					<tr>
-						<td class="icon-cell">
-							{% if item.iconUrl %}
-								<img class="icon-image" src="{{ item.iconUrl }}" alt="{{ item.ItemName | default: item.Name }}" loading="lazy">
-							{% endif %}
-						</td>
-						<td class="item-type">{{ item.assetType }}</td>
-						<td class="item-id">{{ item.ID }}</td>
-						<td class="item-name">
-							{% if item_url %}
-								<a href="https://restoremonarchy.com{{ item_url }}" target="_blank" rel="noopener noreferrer">{{ item.ItemName | default: item.Name }}</a>
-							{% else %}
-								{{ item.ItemName | default: item.Name }}
-							{% endif %}
-						</td>
-						<td class="item-buy">{{ item_buy | round: 0 }}</td>
-						<td class="item-sell">{% if item_sell == 0 %}{% else %}{{ item_sell | round: 0 }}{% endif %}</td>
-					</tr>
-				{% endfor %}
-			{% else %}
-				<tr>
-					<td class="icon-cell"></td>
-					<td class="item-type"></td>
-					<td class="item-id"></td>
-					<td class="item-name">No items available</td>
-					<td class="item-buy"></td>
-					<td class="item-sell"></td>
-				</tr>
-			{% endif %}
-		</tbody>
-	</table>
+				<p>
+					<input class="search form-control" type="search" placeholder="Search items..." aria-label="Search items">
+				</p>
+				<table>
+					<thead>
+						<tr>
+							<th>Icon</th>
+							<th>
+								<button class="sort table-sort-btn" data-sort="item-type" type="button"><span>Type</span><i class="sort-indicator fa-solid fa-sort" aria-hidden="true"></i></button>
+							</th>
+							<th>
+								<button class="sort table-sort-btn" data-sort="item-id" type="button"><span>ID</span><i class="sort-indicator fa-solid fa-sort" aria-hidden="true"></i></button>
+							</th>
+							<th>
+								<button class="sort table-sort-btn" data-sort="item-name" type="button"><span>Item</span><i class="sort-indicator fa-solid fa-sort" aria-hidden="true"></i></button>
+							</th>
+							<th>
+								<button class="sort table-sort-btn" data-sort="item-buy" type="button"><span>Buy</span><i class="sort-indicator fa-solid fa-sort" aria-hidden="true"></i></button>
+							</th>
+							<th>
+								<button class="sort table-sort-btn" data-sort="item-sell" type="button"><span>Sell</span><i class="sort-indicator fa-solid fa-sort" aria-hidden="true"></i></button>
+							</th>
+						</tr>
+					</thead>
+					<tbody class="list">
+						{% if items and items.size > 0 %}
+							{% for item in items %}
+								{% assign item_buy = item.BuyPrice | default: 0 | plus: 0 %}
+								{% assign item_sell = item.SellPrice | default: 0 | plus: 0 %}
+								{% assign item_url = item.url %}
+								<tr>
+									<td class="icon-cell">
+										{% if item.iconUrl %}
+											<img class="icon-image" src="{{ item.iconUrl }}" alt="{{ item.ItemName | default: item.Name }}" loading="lazy">
+										{% endif %}
+									</td>
+									<td class="item-type">{{ item.assetType }}</td>
+									<td class="item-id">{{ item.ID }}</td>
+									<td class="item-name">
+										{% if item_url %}
+											<a href="https://restoremonarchy.com{{ item_url }}" target="_blank" rel="noopener noreferrer">{{ item.ItemName | default: item.Name }}</a>
+										{% else %}
+											{{ item.ItemName | default: item.Name }}
+										{% endif %}
+									</td>
+									<td class="item-buy">{{ item_buy | round: 0 }}</td>
+									<td class="item-sell">{% if item_sell == 0 %}{% else %}{{ item_sell | round: 0 }}{% endif %}</td>
+								</tr>
+							{% endfor %}
+						{% else %}
+							<tr>
+								<td class="icon-cell"></td>
+								<td class="item-type"></td>
+								<td class="item-id"></td>
+								<td class="item-name">No items available</td>
+								<td class="item-buy"></td>
+								<td class="item-sell"></td>
+							</tr>
+						{% endif %}
+					</tbody>
+				</table>
 			</div>
 		</div>
 
