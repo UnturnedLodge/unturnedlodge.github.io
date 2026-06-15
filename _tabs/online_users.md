@@ -5,10 +5,11 @@ title: Online Users
 ---
 
 <div id="online-users-app" class="mt-3">
-	<p class="text-muted mb-3" id="ou-window">Loading time window...</p>
+	<p id="ou-last-updated" class="text-muted mb-2">Last updated: --</p>
 
 	<div id="ou-loading" class="alert alert-info" role="status">
-		Loading online users...
+		<i class="fa-solid fa-spinner fa-spin me-2" aria-hidden="true"></i>
+		<span>Loading online users...</span>
 	</div>
 
 	<div id="ou-error" class="alert alert-danger d-none" role="alert"></div>
@@ -35,14 +36,17 @@ title: Online Users
 
 		var SERVER_ID = '38816940';
 		var WINDOW_MINUTES = 30;
+		var REFRESH_INTERVAL_MS = 60 * 1000;
 		var API_BASE = 'https://api.battlemetrics.com/servers/' + SERVER_ID + '/relationships/sessions';
+		var isRequestInFlight = false;
+		var hasCompletedFirstLoad = false;
 
 		var loadingEl = document.getElementById('ou-loading');
 		var errorEl = document.getElementById('ou-error');
 		var emptyEl = document.getElementById('ou-empty');
 		var tableWrapEl = document.getElementById('ou-table-wrap');
 		var tbodyEl = document.querySelector('#ou-table tbody');
-		var windowEl = document.getElementById('ou-window');
+		var lastUpdatedEl = document.getElementById('ou-last-updated');
 
 		function pad2(value) {
 			return String(value).padStart(2, '0');
@@ -76,10 +80,14 @@ title: Online Users
 			errorEl.classList.remove('d-none');
 		}
 
-		function clearStatus() {
+		function hideMessages() {
 			loadingEl.classList.add('d-none');
 			errorEl.classList.add('d-none');
 			emptyEl.classList.add('d-none');
+		}
+
+		function resetView() {
+			hideMessages();
 			tableWrapEl.classList.add('d-none');
 		}
 
@@ -87,6 +95,7 @@ title: Online Users
 			tbodyEl.innerHTML = '';
 
 			if (!rows.length) {
+				tableWrapEl.classList.add('d-none');
 				emptyEl.classList.remove('d-none');
 				return;
 			}
@@ -126,18 +135,27 @@ title: Online Users
 			);
 		}
 
-		function renderWindow(win) {
-			windowEl.textContent =
-				'Window (UTC): ' + win.start.toISOString() + ' -> ' + win.stop.toISOString();
+		function updateLastUpdated(date) {
+			lastUpdatedEl.textContent = 'Last updated: ' + date.toISOString().slice(11, 19) + ' UTC';
 		}
 
 		function load() {
-			clearStatus();
-			loadingEl.classList.remove('d-none');
+			if (isRequestInFlight) {
+				return;
+			}
+
+			var isInitialLoad = !hasCompletedFirstLoad;
+			isRequestInFlight = true;
+
+			if (isInitialLoad) {
+				resetView();
+				loadingEl.classList.remove('d-none');
+			} else {
+				hideMessages();
+			}
 
 			var now = new Date();
 			var win = computeWindow();
-			renderWindow(win);
 
 			fetch(getApiUrl(win), { method: 'GET' })
 				.then(function (response) {
@@ -160,16 +178,23 @@ title: Online Users
 							return row.start instanceof Date && !Number.isNaN(row.start.getTime());
 						});
 
-					clearStatus();
+					hideMessages();
 					renderRows(connected, now);
+					updateLastUpdated(new Date());
+					hasCompletedFirstLoad = true;
 				})
 				.catch(function (error) {
-					clearStatus();
+					loadingEl.classList.add('d-none');
 					setError(error.message || 'Unable to load online users.');
+					hasCompletedFirstLoad = true;
+				})
+				.finally(function () {
+					isRequestInFlight = false;
 				});
 		}
 
 		load();
+		setInterval(load, REFRESH_INTERVAL_MS);
 	})();
 </script>
 
