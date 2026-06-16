@@ -1,26 +1,37 @@
 {
   "Items": [
     {
+      "MasterBundle": "california2",
       "ID": 4416,
       "ItemName": "Havoc",
       "BuyPrice": 100.00,
       "SellPrice": 75.00
     },
     {
+      "MasterBundle": "california2",
       "ID": 4726,
       "ItemName": "Silver Magazine",
       "BuyPrice": 10.00,
       "SellPrice": 5.00
     },
     {
+      "MasterBundle": "california2",
       "ID": 4820,
       "ItemName": "Military Magazine",
       "BuyPrice": 10.00,
       "SellPrice": 10.00
+    },
+    {
+      "MasterBundle": "morefarming_california",
+      "ID": 48000,
+      "ItemName": "Frying Pan",
+      "BuyPrice": 20.00,
+      "SellPrice": 7.00
     }
   ],
   "Vehicles": [
     {
+      "MasterBundle": "california2",
       "ID": 4128,
       "VehicleName": "Hummingbird",
       "BuyPrice": 10000.00,

@@ -70,7 +70,6 @@ Jekyll::Hooks.register :site, :post_read do |site|
   base_uri = URI('https://restoremonarchy.com/browser/search')
   origin = site.config.dig('shop_prices_api', 'origin')
   origin = origin.to_s.strip
-  origin = 'california-2' if origin.empty?
 
   enrich_shop_entries(items, 'Item', base_uri, origin)
   enrich_shop_entries(vehicles, 'Vehicle', base_uri, origin)
