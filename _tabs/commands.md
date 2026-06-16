@@ -43,9 +43,9 @@ title: Commands
 **Notes:**
 - Item name can be specified partially (e.g. *Alicep*): the shop do the following logic: 
     1. Search an item with exact name match
-    2. Search items with the name that starts with given name
-    3. Search items with the name that contains given name
+    2. Search items with the name that starts with given text
+    3. Search items with the name that contains given text
 
-- If the item name contains a space you have to enclose it between double quotes, like: "military magaz"
+- If the item name contains a space you have to enclose it between double quotes, like: *"military magaz"*
 - The item name search is case insensitive
-- When you sell items with desired quantity, the shop try to sell all the items in your backpack till the desired quantity: if you have less than desired quantity the shop still sell every item it found
+- When you sell items with desired quantity, the shop try to sell all the items in your backpack till the desired quantity: if you have less than desired quantity the shop still sell every item it can find

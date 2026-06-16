@@ -18,8 +18,8 @@ The two keyboard buttons are the following:
 - Drop button (default to CTRL): the button that you already use to fast drop items from your inventory
 - Custom button (default to "comma"): an additional button that you can customize (see the following section).
 
-> The secondary key is fully customizable (SHIFT in the example)  
-Choose the key that you prefer based on your keyboard layout
+> **The secondary key is fully customizable (SHIFT in the example)**  
+**Choose the key that you prefer based on your keyboard layout**
 {: .prompt-tip }
 
 ## Keybind setting

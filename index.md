@@ -22,7 +22,7 @@ hide_title: true
     - *Vehicles*: 
         - damaging vehicles locked by another player
         - damaging or removing tires from vehicles locked by another player
-        - siphoning or carjacking vehicles locked by another player
+        - siphoning, carjacking or lockpicking vehicles locked by another player
     - *Crops*:
         - harvest crops planted by another player
 - **Vault**: a virtual additional personal storage that you can open wherever you are with a simple command `/vault`
