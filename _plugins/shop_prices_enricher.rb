@@ -4,7 +4,7 @@ require 'json'
 require 'net/http'
 require 'uri'
 
-def enrich_shop_entries(entries, category, base_uri, origin)
+def enrich_shop_entries(entries, category, base_uri)
   return unless entries.is_a?(Array)
 
   entries.each do |entry|
@@ -19,7 +19,6 @@ def enrich_shop_entries(entries, category, base_uri, origin)
 
     params = {
       'query' => entry_id.to_s,
-      'origin' => origin,
       'category' => category,
       'maxResults' => '2'
     }
@@ -68,9 +67,7 @@ Jekyll::Hooks.register :site, :post_read do |site|
   vehicles = data['Vehicles'] || data['vehicles']
 
   base_uri = URI('https://restoremonarchy.com/browser/search')
-  origin = site.config.dig('shop_prices_api', 'origin')
-  origin = origin.to_s.strip
 
-  enrich_shop_entries(items, 'Item', base_uri, origin)
-  enrich_shop_entries(vehicles, 'Vehicle', base_uri, origin)
+  enrich_shop_entries(items, 'Item', base_uri)
+  enrich_shop_entries(vehicles, 'Vehicle', base_uri)
 end

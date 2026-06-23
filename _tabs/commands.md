@@ -44,7 +44,7 @@ title: Commands
 | `/kits`               |Get the available kits based on your rank              |           |
 | `/kit license`        |Gives to the player two license plate for vehicle mark |1H         |
 
-## Vote commands
+## 🗳️ Vote commands
 
 |Command    |Description                                        |Cooldown   |
 |:---       |:---                                               |   :---:   |
