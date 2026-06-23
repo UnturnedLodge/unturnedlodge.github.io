@@ -2,39 +2,5380 @@
   "Items": [
     {
       "MasterBundle": "california2",
+      "ID": 4010,
+      "ItemName": "Winchester Magazine",
+      "BuyPrice": 600.00,
+      "SellPrice": 180.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4012,
+      "ItemName": "Fissure",
+      "BuyPrice": 18000.00,
+      "SellPrice": 3600.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4030,
+      "ItemName": "Matrix",
+      "BuyPrice": 0.00,
+      "SellPrice": 17000.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4031,
+      "ItemName": "Polymer Magazine",
+      "BuyPrice": 900.00,
+      "SellPrice": 260.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4032,
+      "ItemName": "Czar",
+      "BuyPrice": 18000.00,
+      "SellPrice": 3600.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4033,
+      "ItemName": "Winchester Magazine",
+      "BuyPrice": 950.00,
+      "SellPrice": 280.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4062,
+      "ItemName": "Tacit",
+      "BuyPrice": 0.00,
+      "SellPrice": 17000.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4063,
+      "ItemName": "Tacit Magazine",
+      "BuyPrice": 4200.00,
+      "SellPrice": 900.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4064,
+      "ItemName": "Military Rucksack",
+      "BuyPrice": 11000.00,
+      "SellPrice": 3300.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4065,
+      "ItemName": "Military Rucksack",
+      "BuyPrice": 11000.00,
+      "SellPrice": 3300.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4066,
+      "ItemName": "Mercenary Rucksack",
+      "BuyPrice": 11000.00,
+      "SellPrice": 3300.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4068,
+      "ItemName": "Marksman Magazine",
+      "BuyPrice": 850.00,
+      "SellPrice": 250.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4069,
+      "ItemName": "Rackstack",
+      "BuyPrice": 0.00,
+      "SellPrice": 3800.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4072,
+      "ItemName": "Phantom",
+      "BuyPrice": 0.00,
+      "SellPrice": 3600.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4074,
+      "ItemName": "Porto",
+      "BuyPrice": 20000.00,
+      "SellPrice": 4000.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4076,
+      "ItemName": "Rebel",
+      "BuyPrice": 0.00,
+      "SellPrice": 3000.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4081,
+      "ItemName": "Popcorn",
+      "BuyPrice": 220.00,
+      "SellPrice": 30.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4096,
+      "ItemName": "Esfalka Magazine",
+      "BuyPrice": 700.00,
+      "SellPrice": 200.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4098,
+      "ItemName": "Shorty",
+      "BuyPrice": 3000.00,
+      "SellPrice": 600.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4102,
+      "ItemName": "Stingray",
+      "BuyPrice": 9000.00,
+      "SellPrice": 1800.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4119,
+      "ItemName": "Talon",
+      "BuyPrice": 8500.00,
+      "SellPrice": 1700.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4137,
+      "ItemName": "Leather Pack",
+      "BuyPrice": 8000.00,
+      "SellPrice": 2400.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4147,
+      "ItemName": "PDQ",
+      "BuyPrice": 18000.00,
+      "SellPrice": 3600.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4178,
+      "ItemName": "40x46mm M406 (HE) Grenades",
+      "BuyPrice": 2400.00,
+      "SellPrice": 400.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4180,
+      "ItemName": "Tensor",
+      "BuyPrice": 8000.00,
+      "SellPrice": 1600.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4182,
+      "ItemName": "Extended Lebel Magazine",
+      "BuyPrice": 980.00,
+      "SellPrice": 290.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4189,
+      "ItemName": "Veneta",
+      "BuyPrice": 7000.00,
+      "SellPrice": 1400.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4195,
+      "ItemName": "Lionfish",
+      "BuyPrice": 0.00,
+      "SellPrice": 6000.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4198,
+      "ItemName": "12 Gauge Buckshot Shells",
+      "BuyPrice": 220.00,
+      "SellPrice": 70.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4199,
+      "ItemName": "12 Gauge Flechette Shells",
+      "BuyPrice": 650.00,
+      "SellPrice": 180.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4200,
+      "ItemName": "12 Gauge Dragon's Breath Shells",
+      "BuyPrice": 1250.00,
+      "SellPrice": 350.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4207,
+      "ItemName": "Umbra",
+      "BuyPrice": 20000.00,
+      "SellPrice": 4000.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4301,
+      "ItemName": "Canned Beans",
+      "BuyPrice": 520.00,
+      "SellPrice": 80.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4302,
+      "ItemName": "Canned Tomato Soup",
+      "BuyPrice": 450.00,
+      "SellPrice": 70.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4303,
+      "ItemName": "Canned Chicken Soup",
+      "BuyPrice": 450.00,
+      "SellPrice": 70.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4304,
+      "ItemName": "Canned Fish",
+      "BuyPrice": 450.00,
+      "SellPrice": 70.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4305,
+      "ItemName": "MRE",
+      "BuyPrice": 1800.00,
+      "SellPrice": 300.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4307,
+      "ItemName": "Chocolate Bar",
+      "BuyPrice": 200.00,
+      "SellPrice": 30.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4308,
+      "ItemName": "Candy Bar",
+      "BuyPrice": 160.00,
+      "SellPrice": 25.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4309,
+      "ItemName": "Granola Bar",
+      "BuyPrice": 260.00,
+      "SellPrice": 40.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4310,
+      "ItemName": "Energy Bar",
+      "BuyPrice": 340.00,
+      "SellPrice": 55.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4311,
+      "ItemName": "Canned Pasta",
+      "BuyPrice": 460.00,
+      "SellPrice": 70.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4312,
+      "ItemName": "Canned Bacon",
+      "BuyPrice": 480.00,
+      "SellPrice": 75.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4313,
+      "ItemName": "Canned Beef",
+      "BuyPrice": 480.00,
+      "SellPrice": 75.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4314,
+      "ItemName": "Milk Carton",
+      "BuyPrice": 820.00,
+      "SellPrice": 130.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4325,
+      "ItemName": "Bread",
+      "BuyPrice": 140.00,
+      "SellPrice": 20.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4326,
+      "ItemName": "Cheese",
+      "BuyPrice": 220.00,
+      "SellPrice": 35.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4327,
+      "ItemName": "Canned Ham",
+      "BuyPrice": 520.00,
+      "SellPrice": 70.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4328,
+      "ItemName": "Pancake",
+      "BuyPrice": 750.00,
+      "SellPrice": 120.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4329,
+      "ItemName": "Chocolate Cake",
+      "BuyPrice": 3000.00,
+      "SellPrice": 450.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4338,
+      "ItemName": "BLT Sandwich",
+      "BuyPrice": 1200.00,
+      "SellPrice": 200.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4339,
+      "ItemName": "Pizza",
+      "BuyPrice": 1450.00,
+      "SellPrice": 240.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4342,
+      "ItemName": "Pumpkin Pie",
+      "BuyPrice": 2800.00,
+      "SellPrice": 420.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4345,
+      "ItemName": "Amber Pie",
+      "BuyPrice": 2200.00,
+      "SellPrice": 300.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4348,
+      "ItemName": "Indigo Pie",
+      "BuyPrice": 3800.00,
+      "SellPrice": 600.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4351,
+      "ItemName": "Jade Pie",
+      "BuyPrice": 3000.00,
+      "SellPrice": 450.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4354,
+      "ItemName": "Mauve Pie",
+      "BuyPrice": 3600.00,
+      "SellPrice": 550.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4357,
+      "ItemName": "Russet Pie",
+      "BuyPrice": 2200.00,
+      "SellPrice": 300.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4360,
+      "ItemName": "Teal Pie",
+      "BuyPrice": 3400.00,
+      "SellPrice": 520.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4363,
+      "ItemName": "Vermillion Pie",
+      "BuyPrice": 3400.00,
+      "SellPrice": 520.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4378,
+      "ItemName": "Waffle",
+      "BuyPrice": 750.00,
+      "SellPrice": 120.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4379,
+      "ItemName": "Chips",
+      "BuyPrice": 260.00,
+      "SellPrice": 40.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4380,
+      "ItemName": "Milk Jug",
+      "BuyPrice": 1300.00,
+      "SellPrice": 220.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4381,
+      "ItemName": "Orange Juice",
+      "BuyPrice": 260.00,
+      "SellPrice": 40.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4382,
+      "ItemName": "Maple Syrup",
+      "BuyPrice": 380.00,
+      "SellPrice": 60.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4394,
+      "ItemName": "Coconut Carton",
+      "BuyPrice": 820.00,
+      "SellPrice": 130.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4395,
+      "ItemName": "Bottled Cola",
+      "BuyPrice": 900.00,
+      "SellPrice": 145.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4396,
+      "ItemName": "Canned Cola",
+      "BuyPrice": 320.00,
+      "SellPrice": 50.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4397,
+      "ItemName": "Bottled Soda",
+      "BuyPrice": 900.00,
+      "SellPrice": 145.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4398,
+      "ItemName": "Canned Soda",
+      "BuyPrice": 320.00,
+      "SellPrice": 50.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4399,
+      "ItemName": "Canned Energy",
+      "BuyPrice": 520.00,
+      "SellPrice": 80.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4400,
+      "ItemName": "Bottled Water",
+      "BuyPrice": 620.00,
+      "SellPrice": 100.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4402,
+      "ItemName": "Apple Juice",
+      "BuyPrice": 260.00,
+      "SellPrice": 40.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4403,
+      "ItemName": "Grape Juice",
+      "BuyPrice": 260.00,
+      "SellPrice": 40.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4406,
+      "ItemName": "Rag",
+      "BuyPrice": 120.00,
+      "SellPrice": 15.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4407,
+      "ItemName": "Bandage",
+      "BuyPrice": 420.00,
+      "SellPrice": 65.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4408,
+      "ItemName": "Dressing",
+      "BuyPrice": 1250.00,
+      "SellPrice": 200.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4410,
+      "ItemName": "Purification Tablets",
+      "BuyPrice": 420.00,
+      "SellPrice": 60.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4412,
+      "ItemName": "Antibiotics",
+      "BuyPrice": 1450.00,
+      "SellPrice": 230.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4413,
+      "ItemName": "Painkillers",
+      "BuyPrice": 850.00,
+      "SellPrice": 140.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4414,
+      "ItemName": "Splint",
+      "BuyPrice": 520.00,
+      "SellPrice": 80.00
+    },
+    {
+      "MasterBundle": "california2",
       "ID": 4416,
       "ItemName": "Havoc",
-      "BuyPrice": 100.00,
-      "SellPrice": 75.00
+      "BuyPrice": 15000.00,
+      "SellPrice": 3000.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4417,
+      "ItemName": "Vitamins",
+      "BuyPrice": 700.00,
+      "SellPrice": 110.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4419,
+      "ItemName": "Morphine",
+      "BuyPrice": 1800.00,
+      "SellPrice": 280.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4421,
+      "ItemName": "Antiseptic",
+      "BuyPrice": 280.00,
+      "SellPrice": 45.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4422,
+      "ItemName": "Adrenaline",
+      "BuyPrice": 3200.00,
+      "SellPrice": 500.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4423,
+      "ItemName": "Adrenaline",
+      "BuyPrice": 3200.00,
+      "SellPrice": 500.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4426,
+      "ItemName": "HMG Box",
+      "BuyPrice": 0.00,
+      "SellPrice": 1500.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4428,
+      "ItemName": "Bottled Lusoda",
+      "BuyPrice": 1100.00,
+      "SellPrice": 180.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4518,
+      "ItemName": "Maplestrike",
+      "BuyPrice": 0.00,
+      "SellPrice": 3400.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4520,
+      "ItemName": "Romeo",
+      "BuyPrice": 17000.00,
+      "SellPrice": 3400.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4521,
+      "ItemName": "Silver Hawk",
+      "BuyPrice": 0.00,
+      "SellPrice": 13000.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4522,
+      "ItemName": "Magnum Pistol Magazine",
+      "BuyPrice": 2800.00,
+      "SellPrice": 650.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4523,
+      "ItemName": "Viper",
+      "BuyPrice": 9500.00,
+      "SellPrice": 1900.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4525,
+      "ItemName": "Viper Magazine",
+      "BuyPrice": 950.00,
+      "SellPrice": 280.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4526,
+      "ItemName": "Doorkicker",
+      "BuyPrice": 4500.00,
+      "SellPrice": 900.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4538,
+      "ItemName": "Choccy Milk Carton",
+      "BuyPrice": 820.00,
+      "SellPrice": 130.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4539,
+      "ItemName": "Orange Carton",
+      "BuyPrice": 820.00,
+      "SellPrice": 130.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4540,
+      "ItemName": "Pineapple Carton",
+      "BuyPrice": 820.00,
+      "SellPrice": 130.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4541,
+      "ItemName": "Banana Carton",
+      "BuyPrice": 820.00,
+      "SellPrice": 130.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4542,
+      "ItemName": "Bottled Water",
+      "BuyPrice": 420.00,
+      "SellPrice": 65.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4544,
+      "ItemName": "Gryffon",
+      "BuyPrice": 0.00,
+      "SellPrice": 13000.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4546,
+      "ItemName": "Delta",
+      "BuyPrice": 25000.00,
+      "SellPrice": 5000.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4600,
+      "ItemName": "Hiking Pack",
+      "BuyPrice": 2000.00,
+      "SellPrice": 600.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4672,
+      "ItemName": "Military Rucksack",
+      "BuyPrice": 11000.00,
+      "SellPrice": 3300.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4712,
+      "ItemName": "Bottled Elffy",
+      "BuyPrice": 900.00,
+      "SellPrice": 145.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4713,
+      "ItemName": "Canned Elffy",
+      "BuyPrice": 320.00,
+      "SellPrice": 50.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4714,
+      "ItemName": "Polymer Marksman Magazine",
+      "BuyPrice": 980.00,
+      "SellPrice": 290.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4716,
+      "ItemName": "Pomegranate Carton",
+      "BuyPrice": 820.00,
+      "SellPrice": 130.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4717,
+      "ItemName": "Mutant",
+      "BuyPrice": 0.00,
+      "SellPrice": 16000.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4724,
+      "ItemName": "Quicksilver",
+      "BuyPrice": 9000.00,
+      "SellPrice": 1800.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4725,
+      "ItemName": "Quicksilver (Lebel)",
+      "BuyPrice": 9000.00,
+      "SellPrice": 1800.00
     },
     {
       "MasterBundle": "california2",
       "ID": 4726,
       "ItemName": "Silver Magazine",
-      "BuyPrice": 10.00,
-      "SellPrice": 5.00
+      "BuyPrice": 920.00,
+      "SellPrice": 270.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4727,
+      "ItemName": "Ratel",
+      "BuyPrice": 0.00,
+      "SellPrice": 12000.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4730,
+      "ItemName": "Whirlwind",
+      "BuyPrice": 16000.00,
+      "SellPrice": 3200.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4732,
+      "ItemName": "Whirlwind Magazine",
+      "BuyPrice": 2600.00,
+      "SellPrice": 750.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4734,
+      "ItemName": "Ranger Magazine",
+      "BuyPrice": 760.00,
+      "SellPrice": 220.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4735,
+      "ItemName": "Sabertooth",
+      "BuyPrice": 0.00,
+      "SellPrice": 15000.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4737,
+      "ItemName": "Sage Magazine",
+      "BuyPrice": 880.00,
+      "SellPrice": 260.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4738,
+      "ItemName": "Monarch",
+      "BuyPrice": 0.00,
+      "SellPrice": 20000.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4740,
+      "ItemName": "Anti-Materiel Magazine",
+      "BuyPrice": 0.00,
+      "SellPrice": 1200.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4800,
+      "ItemName": "Ace",
+      "BuyPrice": 11000.00,
+      "SellPrice": 2200.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4801,
+      "ItemName": ".357 Speedloader",
+      "BuyPrice": 180.00,
+      "SellPrice": 55.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4802,
+      "ItemName": "Senator",
+      "BuyPrice": 4000.00,
+      "SellPrice": 800.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4803,
+      "ItemName": "Buckshot Speedloader",
+      "BuyPrice": 420.00,
+      "SellPrice": 120.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4804,
+      "ItemName": "Kostyor",
+      "BuyPrice": 15000.00,
+      "SellPrice": 3000.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4805,
+      "ItemName": "Subsonic Magazine",
+      "BuyPrice": 1100.00,
+      "SellPrice": 320.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4810,
+      "ItemName": "Emperor",
+      "BuyPrice": 6000.00,
+      "SellPrice": 1200.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4811,
+      "ItemName": "Manta",
+      "BuyPrice": 23000.00,
+      "SellPrice": 4600.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4817,
+      "ItemName": "Razortooth",
+      "BuyPrice": 9000.00,
+      "SellPrice": 1800.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4818,
+      "ItemName": "Magnus",
+      "BuyPrice": 0.00,
+      "SellPrice": 11000.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4819,
+      "ItemName": "Vihor",
+      "BuyPrice": 14000.00,
+      "SellPrice": 2800.00
     },
     {
       "MasterBundle": "california2",
       "ID": 4820,
       "ItemName": "Military Magazine",
-      "BuyPrice": 10.00,
-      "SellPrice": 10.00
+      "BuyPrice": 900.00,
+      "SellPrice": 260.00
     },
     {
-      "MasterBundle": "morefarming_california",
-      "ID": 48000,
-      "ItemName": "Frying Pan",
-      "BuyPrice": 20.00,
-      "SellPrice": 7.00
+      "MasterBundle": "california2",
+      "ID": 4821,
+      "ItemName": "Extended Military Magazine",
+      "BuyPrice": 2200.00,
+      "SellPrice": 650.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4822,
+      "ItemName": "Extended Polymer Magazine",
+      "BuyPrice": 1800.00,
+      "SellPrice": 520.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4823,
+      "ItemName": "Ranger Magazine",
+      "BuyPrice": 260.00,
+      "SellPrice": 80.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4824,
+      "ItemName": "Extended Ranger Magazine",
+      "BuyPrice": 1350.00,
+      "SellPrice": 400.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4825,
+      "ItemName": "Banana Magazine",
+      "BuyPrice": 1350.00,
+      "SellPrice": 400.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4826,
+      "ItemName": "Palmov",
+      "BuyPrice": 21000.00,
+      "SellPrice": 4200.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4828,
+      "ItemName": "Balaur",
+      "BuyPrice": 8500.00,
+      "SellPrice": 1700.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4842,
+      "ItemName": "Big Shot",
+      "BuyPrice": 0.00,
+      "SellPrice": 10000.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4843,
+      "ItemName": "Magnum Bullets",
+      "BuyPrice": 2400.00,
+      "SellPrice": 520.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4844,
+      "ItemName": "Subsonic Magazine",
+      "BuyPrice": 1450.00,
+      "SellPrice": 420.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4983,
+      "ItemName": "Black Daypack",
+      "BuyPrice": 2000.00,
+      "SellPrice": 600.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4984,
+      "ItemName": "Blue Daypack",
+      "BuyPrice": 2000.00,
+      "SellPrice": 600.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4985,
+      "ItemName": "Green Daypack",
+      "BuyPrice": 2000.00,
+      "SellPrice": 600.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4986,
+      "ItemName": "Orange Daypack",
+      "BuyPrice": 2000.00,
+      "SellPrice": 600.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4987,
+      "ItemName": "Purple Daypack",
+      "BuyPrice": 2000.00,
+      "SellPrice": 600.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4988,
+      "ItemName": "Red Daypack",
+      "BuyPrice": 2000.00,
+      "SellPrice": 600.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4989,
+      "ItemName": "White Daypack",
+      "BuyPrice": 2000.00,
+      "SellPrice": 600.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4990,
+      "ItemName": "Yellow Daypack",
+      "BuyPrice": 2000.00,
+      "SellPrice": 600.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6028,
+      "ItemName": "Montefeltro",
+      "BuyPrice": 5000.00,
+      "SellPrice": 1000.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6043,
+      "ItemName": "Whopper",
+      "BuyPrice": 6500.00,
+      "SellPrice": 1300.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6046,
+      "ItemName": "Tempest",
+      "BuyPrice": 13000.00,
+      "SellPrice": 2600.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6049,
+      "ItemName": "Akula",
+      "BuyPrice": 20000.00,
+      "SellPrice": 4000.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6051,
+      "ItemName": "Okho",
+      "BuyPrice": 9500.00,
+      "SellPrice": 1900.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6055,
+      "ItemName": "Military Alicepack",
+      "BuyPrice": 35000.00,
+      "SellPrice": 10500.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6056,
+      "ItemName": "Military Alicepack",
+      "BuyPrice": 35000.00,
+      "SellPrice": 10500.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6057,
+      "ItemName": "Mercenary Alicepack",
+      "BuyPrice": 35000.00,
+      "SellPrice": 10500.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6058,
+      "ItemName": "Military Alicepack",
+      "BuyPrice": 35000.00,
+      "SellPrice": 10500.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6077,
+      "ItemName": "Lebel Magazine",
+      "BuyPrice": 420.00,
+      "SellPrice": 125.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6087,
+      "ItemName": "Mirage",
+      "BuyPrice": 0.00,
+      "SellPrice": 15000.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6089,
+      "ItemName": "Lapua Magazine",
+      "BuyPrice": 2600.00,
+      "SellPrice": 700.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6095,
+      "ItemName": "Ramatkal",
+      "BuyPrice": 7500.00,
+      "SellPrice": 1500.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6096,
+      "ItemName": "Eotens",
+      "BuyPrice": 0.00,
+      "SellPrice": 14000.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6106,
+      "ItemName": "Icarus",
+      "BuyPrice": 0.00,
+      "SellPrice": 14000.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6108,
+      "ItemName": "Military Belt",
+      "BuyPrice": 4200.00,
+      "SellPrice": 850.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6109,
+      "ItemName": "Military Penetrative Belt",
+      "BuyPrice": 5200.00,
+      "SellPrice": 1000.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6211,
+      "ItemName": "Sentinel",
+      "BuyPrice": 8500.00,
+      "SellPrice": 1700.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6218,
+      "ItemName": "Greyhound",
+      "BuyPrice": 3500.00,
+      "SellPrice": 700.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6219,
+      "ItemName": "Koshmar",
+      "BuyPrice": 0.00,
+      "SellPrice": 5000.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6220,
+      "ItemName": "4 Gauge Slugs",
+      "BuyPrice": 950.00,
+      "SellPrice": 260.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6253,
+      "ItemName": "Carolus",
+      "BuyPrice": 0.00,
+      "SellPrice": 7000.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6256,
+      "ItemName": "Arachnid",
+      "BuyPrice": 7000.00,
+      "SellPrice": 1400.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6258,
+      "ItemName": "Arachnid SD",
+      "BuyPrice": 6500.00,
+      "SellPrice": 1300.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6260,
+      "ItemName": "Novuh",
+      "BuyPrice": 2500.00,
+      "SellPrice": 500.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6262,
+      "ItemName": "40x46mm M651 (Tear Gas) Grenades",
+      "BuyPrice": 1600.00,
+      "SellPrice": 350.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6268,
+      "ItemName": "Emergency Stim",
+      "BuyPrice": 3200.00,
+      "SellPrice": 500.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6269,
+      "ItemName": "Pseudo Stim",
+      "BuyPrice": 2600.00,
+      "SellPrice": 420.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6348,
+      "ItemName": "Bottled Zestify",
+      "BuyPrice": 1100.00,
+      "SellPrice": 180.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6353,
+      "ItemName": ".45-70 Rosewood Bullets",
+      "BuyPrice": 900.00,
+      "SellPrice": 250.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6354,
+      "ItemName": "Sumendi",
+      "BuyPrice": 0.00,
+      "SellPrice": 4000.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6355,
+      "ItemName": "Dragonfruit Carton",
+      "BuyPrice": 820.00,
+      "SellPrice": 130.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6356,
+      "ItemName": "Guava Carton",
+      "BuyPrice": 820.00,
+      "SellPrice": 130.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6391,
+      "ItemName": "Sokol",
+      "BuyPrice": 0.00,
+      "SellPrice": 3600.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6393,
+      "ItemName": "Black Arrow",
+      "BuyPrice": 0.00,
+      "SellPrice": 18000.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6394,
+      "ItemName": "Anti-Materiel Magazine",
+      "BuyPrice": 0.00,
+      "SellPrice": 700.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6398,
+      "ItemName": "Dnipro",
+      "BuyPrice": 22000.00,
+      "SellPrice": 4400.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6400,
+      "ItemName": "Maverick",
+      "BuyPrice": 0.00,
+      "SellPrice": 9000.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6401,
+      "ItemName": "Buckshot Magazine",
+      "BuyPrice": 320.00,
+      "SellPrice": 90.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6402,
+      "ItemName": "Buckshot Magazine",
+      "BuyPrice": 760.00,
+      "SellPrice": 220.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6403,
+      "ItemName": "Aslan",
+      "BuyPrice": 26000.00,
+      "SellPrice": 5200.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6405,
+      "ItemName": "Chukavin",
+      "BuyPrice": 0.00,
+      "SellPrice": 3600.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6406,
+      "ItemName": "Lapua Magazine",
+      "BuyPrice": 2600.00,
+      "SellPrice": 700.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6411,
+      "ItemName": "Vonya",
+      "BuyPrice": 5500.00,
+      "SellPrice": 1100.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6459,
+      "ItemName": "Cantaloupe Cake",
+      "BuyPrice": 3000.00,
+      "SellPrice": 450.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6460,
+      "ItemName": "Carrot Cake",
+      "BuyPrice": 2800.00,
+      "SellPrice": 420.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6461,
+      "ItemName": "Cheese Cake",
+      "BuyPrice": 2700.00,
+      "SellPrice": 400.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6462,
+      "ItemName": "Coconut Cake",
+      "BuyPrice": 2400.00,
+      "SellPrice": 380.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6529,
+      "ItemName": "CIWS Sentry Base Parts",
+      "BuyPrice": 35000.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6530,
+      "ItemName": "CIWS Sentry Gun Parts",
+      "BuyPrice": 40000.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6836,
+      "ItemName": "Grumotevitsa",
+      "BuyPrice": 20000.00,
+      "SellPrice": 4000.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6908,
+      "ItemName": "Javelin",
+      "BuyPrice": 0.00,
+      "SellPrice": 8000.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6937,
+      "ItemName": "MRE",
+      "BuyPrice": 1400.00,
+      "SellPrice": 230.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6938,
+      "ItemName": "MRE",
+      "BuyPrice": 900.00,
+      "SellPrice": 150.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6989,
+      "ItemName": "Flechette Magazine",
+      "BuyPrice": 620.00,
+      "SellPrice": 180.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6990,
+      "ItemName": "Flechette Magazine",
+      "BuyPrice": 1150.00,
+      "SellPrice": 320.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6991,
+      "ItemName": "Dragon's Breath Magazine",
+      "BuyPrice": 980.00,
+      "SellPrice": 280.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6992,
+      "ItemName": "Dragon's Breath Magazine",
+      "BuyPrice": 1650.00,
+      "SellPrice": 480.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6993,
+      "ItemName": "Flechette Speedloader",
+      "BuyPrice": 780.00,
+      "SellPrice": 220.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 6994,
+      "ItemName": "Dragon's Breath Speedloader",
+      "BuyPrice": 950.00,
+      "SellPrice": 240.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 7017,
+      "ItemName": "Concentrated Stim",
+      "BuyPrice": 3800.00,
+      "SellPrice": 600.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 7018,
+      "ItemName": "Purifying Stim",
+      "BuyPrice": 2200.00,
+      "SellPrice": 340.00
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 7098,
+      "ItemName": "Golden Palmov",
+      "BuyPrice": 0.00,
+      "SellPrice": 14000.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 41115,
+      "ItemName": "Hotdog",
+      "BuyPrice": 3200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 41253,
+      "ItemName": "Chili Dog",
+      "BuyPrice": 9500.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 41254,
+      "ItemName": "Fruit Sandwich",
+      "BuyPrice": 8500.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 42102,
+      "ItemName": "Coffee",
+      "BuyPrice": 2500.00,
+      "SellPrice": 80.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 42103,
+      "ItemName": "Cafe Au Lait",
+      "BuyPrice": 2800.00,
+      "SellPrice": 100.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 42130,
+      "ItemName": "French Fries",
+      "BuyPrice": 1400.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 42132,
+      "ItemName": "Hamburger",
+      "BuyPrice": 4200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 42133,
+      "ItemName": "Cheeseburger",
+      "BuyPrice": 5200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 42134,
+      "ItemName": "BLT Burger",
+      "BuyPrice": 8500.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 42135,
+      "ItemName": "Bacon & Egg Burger",
+      "BuyPrice": 11000.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 42136,
+      "ItemName": "Fish Burger",
+      "BuyPrice": 5200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 42141,
+      "ItemName": "Vegetable Salad",
+      "BuyPrice": 4200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 42142,
+      "ItemName": "Sausage Salad",
+      "BuyPrice": 5200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 42143,
+      "ItemName": "Tuna Salad",
+      "BuyPrice": 5800.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 42161,
+      "ItemName": "Apple Juice",
+      "BuyPrice": 1800.00,
+      "SellPrice": 60.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 42162,
+      "ItemName": "Orange Juice",
+      "BuyPrice": 1800.00,
+      "SellPrice": 60.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 42163,
+      "ItemName": "Banana Smoothie",
+      "BuyPrice": 4200.00,
+      "SellPrice": 120.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 42164,
+      "ItemName": "Strawberry Smoothie",
+      "BuyPrice": 4200.00,
+      "SellPrice": 120.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 42165,
+      "ItemName": "Grape Juice",
+      "BuyPrice": 2200.00,
+      "SellPrice": 70.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 42170,
+      "ItemName": "Sweet Roll",
+      "BuyPrice": 2200.00,
+      "SellPrice": 80.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 42191,
+      "ItemName": "Candle",
+      "BuyPrice": 900.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 42223,
+      "ItemName": "Lollipop",
+      "BuyPrice": 1400.00,
+      "SellPrice": 40.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 42225,
+      "ItemName": "Caramel Apple",
+      "BuyPrice": 2800.00,
+      "SellPrice": 100.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 42229,
+      "ItemName": "Toasted Marshmallow",
+      "BuyPrice": 225.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 42230,
+      "ItemName": "Hot Chocolate",
+      "BuyPrice": 3200.00,
+      "SellPrice": 120.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 42240,
+      "ItemName": "Empty Barrel",
+      "BuyPrice": 4200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 42300,
+      "ItemName": "Orange Jelly",
+      "BuyPrice": 1800.00,
+      "SellPrice": 60.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 42301,
+      "ItemName": "Strawberry Jelly",
+      "BuyPrice": 1800.00,
+      "SellPrice": 60.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 42302,
+      "ItemName": "Grape Jelly",
+      "BuyPrice": 1800.00,
+      "SellPrice": 60.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 42306,
+      "ItemName": "Spaghetti",
+      "BuyPrice": 4800.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 42307,
+      "ItemName": "Carbonara",
+      "BuyPrice": 6500.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 42308,
+      "ItemName": "Macaroni and Cheese",
+      "BuyPrice": 4200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 42320,
+      "ItemName": "Vanilla Ice Cream",
+      "BuyPrice": 3200.00,
+      "SellPrice": 120.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 42321,
+      "ItemName": "Chocolate Ice Cream",
+      "BuyPrice": 3200.00,
+      "SellPrice": 120.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 42322,
+      "ItemName": "Strawberry Ice Cream",
+      "BuyPrice": 3200.00,
+      "SellPrice": 120.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 42330,
+      "ItemName": "Iced Coffee",
+      "BuyPrice": 4500.00,
+      "SellPrice": 150.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 42331,
+      "ItemName": "Iced Cafe Au Lait",
+      "BuyPrice": 4800.00,
+      "SellPrice": 180.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 42337,
+      "ItemName": "Ginger Ale",
+      "BuyPrice": 2800.00,
+      "SellPrice": 80.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 43124,
+      "ItemName": "Shrimp Burger",
+      "BuyPrice": 8500.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 43125,
+      "ItemName": "Crab Burger",
+      "BuyPrice": 9500.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47105,
+      "ItemName": "Spinning Wheel",
+      "BuyPrice": 12000.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47106,
+      "ItemName": "Loom",
+      "BuyPrice": 12000.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47107,
+      "ItemName": "Saloon Door",
+      "BuyPrice": 5200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47108,
+      "ItemName": "Stone Oven",
+      "BuyPrice": 9000.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47109,
+      "ItemName": "Fireplace",
+      "BuyPrice": 18000.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47110,
+      "ItemName": "Wood Stove",
+      "BuyPrice": 12000.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47111,
+      "ItemName": "Birch Dish",
+      "BuyPrice": 700.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47112,
+      "ItemName": "Maple Dish",
+      "BuyPrice": 700.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47113,
+      "ItemName": "Pine Dish",
+      "BuyPrice": 700.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47114,
+      "ItemName": "Metal Dish",
+      "BuyPrice": 1800.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47115,
+      "ItemName": "Birch Coaster",
+      "BuyPrice": 500.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47116,
+      "ItemName": "Maple Coaster",
+      "BuyPrice": 500.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47117,
+      "ItemName": "Pine Coaster",
+      "BuyPrice": 500.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47118,
+      "ItemName": "Metal Coaster",
+      "BuyPrice": 1200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47119,
+      "ItemName": "Coffee Cup",
+      "BuyPrice": 450.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47121,
+      "ItemName": "Birch Stool",
+      "BuyPrice": 1600.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47122,
+      "ItemName": "Maple Stool",
+      "BuyPrice": 1600.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47123,
+      "ItemName": "Pine Stool",
+      "BuyPrice": 1600.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47124,
+      "ItemName": "Metal Stool",
+      "BuyPrice": 3200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47125,
+      "ItemName": "Birch Dining Chair",
+      "BuyPrice": 2200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47126,
+      "ItemName": "Maple Dining Chair",
+      "BuyPrice": 2200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47127,
+      "ItemName": "Pine Dining Chair",
+      "BuyPrice": 2200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47128,
+      "ItemName": "Metal Dining Chair",
+      "BuyPrice": 4200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47129,
+      "ItemName": "Birch Saloon Chair",
+      "BuyPrice": 3200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47130,
+      "ItemName": "Maple Saloon Chair",
+      "BuyPrice": 3200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47131,
+      "ItemName": "Pine Saloon Chair",
+      "BuyPrice": 3200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47132,
+      "ItemName": "Metal Saloon Chair",
+      "BuyPrice": 5200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47134,
+      "ItemName": "Tank Hangar Door",
+      "BuyPrice": 140000.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47135,
+      "ItemName": "Plane Hangar Door",
+      "BuyPrice": 240000.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47136,
+      "ItemName": "Helicopter Hangar Door",
+      "BuyPrice": 380000.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47137,
+      "ItemName": "Boat Hangar Door",
+      "BuyPrice": 160000.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47147,
+      "ItemName": "Leather Coaster",
+      "BuyPrice": 1400.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47148,
+      "ItemName": "Cloth Coaster",
+      "BuyPrice": 900.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47150,
+      "ItemName": "Birch Fence",
+      "BuyPrice": 1800.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47151,
+      "ItemName": "Maple Fence",
+      "BuyPrice": 1800.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47152,
+      "ItemName": "Pine Fence",
+      "BuyPrice": 1800.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47153,
+      "ItemName": "Metal Fence",
+      "BuyPrice": 5200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47155,
+      "ItemName": "Birch Fence Gate",
+      "BuyPrice": 3200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47156,
+      "ItemName": "Maple Fence Gate",
+      "BuyPrice": 3200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47157,
+      "ItemName": "Pine Fence Gate",
+      "BuyPrice": 3200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47158,
+      "ItemName": "Metal Fence Gate",
+      "BuyPrice": 7800.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47160,
+      "ItemName": "Birch Fence Door",
+      "BuyPrice": 4200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47161,
+      "ItemName": "Maple Fence Door",
+      "BuyPrice": 4200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47162,
+      "ItemName": "Pine Fence Door",
+      "BuyPrice": 4200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47163,
+      "ItemName": "Metal Fence Door",
+      "BuyPrice": 9200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47178,
+      "ItemName": "Toilet",
+      "BuyPrice": 12000.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47179,
+      "ItemName": "Shower",
+      "BuyPrice": 18000.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47180,
+      "ItemName": "Bathtub",
+      "BuyPrice": 22000.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47181,
+      "ItemName": "Toilet Paper Holder",
+      "BuyPrice": 1400.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47184,
+      "ItemName": "Bathroom Wall",
+      "BuyPrice": 3200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47185,
+      "ItemName": "Bathroom Doorway",
+      "BuyPrice": 2800.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47186,
+      "ItemName": "Bathroom Roof",
+      "BuyPrice": 3200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47187,
+      "ItemName": "Bathroom Window",
+      "BuyPrice": 4200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47188,
+      "ItemName": "Bathroom Door",
+      "BuyPrice": 8500.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47189,
+      "ItemName": "Bathroom Window",
+      "BuyPrice": 9500.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47190,
+      "ItemName": "Bathroom Floor",
+      "BuyPrice": 3200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47194,
+      "ItemName": "Fluorescent Wall Light",
+      "BuyPrice": 7800.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47195,
+      "ItemName": "Round Wall Lamp",
+      "BuyPrice": 8500.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47196,
+      "ItemName": "Mirror Wall Light",
+      "BuyPrice": 9500.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47197,
+      "ItemName": "Ceiling Light",
+      "BuyPrice": 9000.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47198,
+      "ItemName": "Fluorescent Ceiling Light",
+      "BuyPrice": 8500.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47199,
+      "ItemName": "Ceiling Fan",
+      "BuyPrice": 16000.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47200,
+      "ItemName": "Candy Bowl",
+      "BuyPrice": 1200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47201,
+      "ItemName": "Marshmallow Bowl",
+      "BuyPrice": 1200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47202,
+      "ItemName": "Candy Corn Bowl",
+      "BuyPrice": 1200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47205,
+      "ItemName": "Reversi Board",
+      "BuyPrice": 12000.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47206,
+      "ItemName": "Piled Reversi Black Pieces",
+      "BuyPrice": 3500.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47207,
+      "ItemName": "Piled Reversi White Pieces",
+      "BuyPrice": 3500.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47210,
+      "ItemName": "Counter Bell",
+      "BuyPrice": 3200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47213,
+      "ItemName": "Chess Board",
+      "BuyPrice": 16000.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47214,
+      "ItemName": "White Chess Pieces",
+      "BuyPrice": 4500.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47215,
+      "ItemName": "Black Chess Pieces",
+      "BuyPrice": 4500.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47217,
+      "ItemName": "Rampart Door",
+      "BuyPrice": 65000.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47218,
+      "ItemName": "Counter Bell (Low Volume)",
+      "BuyPrice": 3200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47220,
+      "ItemName": "Wall Candle Holder (Iron)",
+      "BuyPrice": 4400.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47221,
+      "ItemName": "Wall Candle Holder (Brass)",
+      "BuyPrice": 4200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47222,
+      "ItemName": "Medicine Cabinet",
+      "BuyPrice": 9500.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47223,
+      "ItemName": "Metal Medicine Cabinet",
+      "BuyPrice": 12000.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47224,
+      "ItemName": "Firewood Rack",
+      "BuyPrice": 2800.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47226,
+      "ItemName": "Square Mini Planter",
+      "BuyPrice": 4200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47227,
+      "ItemName": "Round Mini Planter",
+      "BuyPrice": 4500.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47228,
+      "ItemName": "Wall Planter",
+      "BuyPrice": 5200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47231,
+      "ItemName": "Chicken Coop",
+      "BuyPrice": 12000.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47232,
+      "ItemName": "Fire Barrel",
+      "BuyPrice": 5000.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47233,
+      "ItemName": "Safe",
+      "BuyPrice": 65000.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47266,
+      "ItemName": "Leather Couch",
+      "BuyPrice": 18000.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47267,
+      "ItemName": "Single Leather Couch",
+      "BuyPrice": 12000.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47268,
+      "ItemName": "Dark Leather Couch",
+      "BuyPrice": 22000.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47269,
+      "ItemName": "Single Dark Leather Couch",
+      "BuyPrice": 15000.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47270,
+      "ItemName": "Triple Candle Stand (Brass)",
+      "BuyPrice": 6500.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47271,
+      "ItemName": "Triple Candle Stand (Iron)",
+      "BuyPrice": 7000.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47272,
+      "ItemName": "Candle Stand (Brass)",
+      "BuyPrice": 3200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47273,
+      "ItemName": "Candle Stand (Steel)",
+      "BuyPrice": 3400.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47274,
+      "ItemName": "Melted Candles",
+      "BuyPrice": 1400.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47275,
+      "ItemName": "Can Candle Stand",
+      "BuyPrice": 2200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47276,
+      "ItemName": "Candle Chandelier",
+      "BuyPrice": 14000.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47277,
+      "ItemName": "Lantern",
+      "BuyPrice": 5200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47278,
+      "ItemName": "Lantern (Rusty)",
+      "BuyPrice": 4200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47280,
+      "ItemName": "Gray Glass Table",
+      "BuyPrice": 9500.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47281,
+      "ItemName": "White Glass Table",
+      "BuyPrice": 9500.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47282,
+      "ItemName": "Blue Coffee Cup",
+      "BuyPrice": 500.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47283,
+      "ItemName": "Green Coffee Cup",
+      "BuyPrice": 500.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47284,
+      "ItemName": "Orange Coffee Cup",
+      "BuyPrice": 500.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47285,
+      "ItemName": "Purple Coffee Cup",
+      "BuyPrice": 500.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47286,
+      "ItemName": "Red Coffee Cup",
+      "BuyPrice": 500.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47287,
+      "ItemName": "Yellow Coffee Cup",
+      "BuyPrice": 500.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47288,
+      "ItemName": "Black Coffee Cup",
+      "BuyPrice": 500.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47310,
+      "ItemName": "Square Side Table",
+      "BuyPrice": 2600.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47311,
+      "ItemName": "Round Side Table",
+      "BuyPrice": 2600.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47312,
+      "ItemName": "Tire Table",
+      "BuyPrice": 6200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47313,
+      "ItemName": "Birch Low Table",
+      "BuyPrice": 3800.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47314,
+      "ItemName": "Maple Low Table",
+      "BuyPrice": 3800.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47315,
+      "ItemName": "Pine Low Table",
+      "BuyPrice": 3800.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47322,
+      "ItemName": "Wall Candle Holder (Cage)",
+      "BuyPrice": 5200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47324,
+      "ItemName": "Checkers Board (8x8)",
+      "BuyPrice": 14000.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47325,
+      "ItemName": "Piled Checkers Red Pieces",
+      "BuyPrice": 4000.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47327,
+      "ItemName": "Piled Checkers Black Pieces",
+      "BuyPrice": 4000.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47333,
+      "ItemName": "Checkers Board (10x10)",
+      "BuyPrice": 14000.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47340,
+      "ItemName": "Fork",
+      "BuyPrice": 500.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47341,
+      "ItemName": "Table Knife",
+      "BuyPrice": 500.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47342,
+      "ItemName": "Spoon",
+      "BuyPrice": 500.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47343,
+      "ItemName": "Fork (Handled)",
+      "BuyPrice": 900.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47344,
+      "ItemName": "Table Knife (Handled)",
+      "BuyPrice": 900.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47345,
+      "ItemName": "Spoon (Wood)",
+      "BuyPrice": 900.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47346,
+      "ItemName": "Cutlery Holder",
+      "BuyPrice": 900.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47347,
+      "ItemName": "Cutlery Holder (Spoon)",
+      "BuyPrice": 900.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47348,
+      "ItemName": "Condiment Caddy",
+      "BuyPrice": 2200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47349,
+      "ItemName": "Chopping Board",
+      "BuyPrice": 1200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47350,
+      "ItemName": "Stepladder",
+      "BuyPrice": 2800.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47351,
+      "ItemName": "Metal Stepladder",
+      "BuyPrice": 6200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47352,
+      "ItemName": "Towel Holder",
+      "BuyPrice": 1800.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47353,
+      "ItemName": "Towel Holder (Beige)",
+      "BuyPrice": 1800.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47354,
+      "ItemName": "Towel Holder (Brown)",
+      "BuyPrice": 1800.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47355,
+      "ItemName": "Towel Holder (Red)",
+      "BuyPrice": 1800.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47356,
+      "ItemName": "Birch Wall Shelf",
+      "BuyPrice": 3200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47357,
+      "ItemName": "Maple Wall Shelf",
+      "BuyPrice": 3200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47358,
+      "ItemName": "Pine Wall Shelf",
+      "BuyPrice": 3200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47359,
+      "ItemName": "Metal Wall Shelf",
+      "BuyPrice": 5200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47360,
+      "ItemName": "Birch Shelf",
+      "BuyPrice": 4200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47361,
+      "ItemName": "Maple Shelf",
+      "BuyPrice": 4200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47362,
+      "ItemName": "Pine Shelf",
+      "BuyPrice": 4200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47363,
+      "ItemName": "Metal Shelf",
+      "BuyPrice": 9500.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47365,
+      "ItemName": "Birch Plumbed Sink",
+      "BuyPrice": 14000.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47366,
+      "ItemName": "Maple Plumbed Sink",
+      "BuyPrice": 14000.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47367,
+      "ItemName": "Pine Plumbed Sink",
+      "BuyPrice": 14000.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47368,
+      "ItemName": "Metal Plumbed Sink",
+      "BuyPrice": 22000.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47370,
+      "ItemName": "Straw Doormat",
+      "BuyPrice": 1200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47371,
+      "ItemName": "Straw Doormat (Plain)",
+      "BuyPrice": 1200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47372,
+      "ItemName": "Straw Doormat (Half-Circle)",
+      "BuyPrice": 1200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47374,
+      "ItemName": "Bagasse Doormat",
+      "BuyPrice": 1800.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47375,
+      "ItemName": "Bagasse Doormat (Plain)",
+      "BuyPrice": 1800.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47376,
+      "ItemName": "Bagasse Doormat (Half-Circle)",
+      "BuyPrice": 1800.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47378,
+      "ItemName": "Birch Gas Stove",
+      "BuyPrice": 8500.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47379,
+      "ItemName": "Maple Gas Stove",
+      "BuyPrice": 8500.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47380,
+      "ItemName": "Pine Gas Stove",
+      "BuyPrice": 8500.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47381,
+      "ItemName": "Metal Gas Stove",
+      "BuyPrice": 8500.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47383,
+      "ItemName": "Stew Pot",
+      "BuyPrice": 2200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47384,
+      "ItemName": "Decorative Frying Pan",
+      "BuyPrice": 1800.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47385,
+      "ItemName": "Kettle",
+      "BuyPrice": 2200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47396,
+      "ItemName": "Safe Nameplate",
+      "BuyPrice": 2500.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47404,
+      "ItemName": "Electric Fan",
+      "BuyPrice": 11000.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47405,
+      "ItemName": "Electric Fan (Tall)",
+      "BuyPrice": 14000.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47421,
+      "ItemName": "Door Bell (Brass)",
+      "BuyPrice": 5200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 47422,
+      "ItemName": "Door Bell (White)",
+      "BuyPrice": 5200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 48101,
+      "ItemName": "Rock Paper Scissors",
+      "BuyPrice": 2800.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 48102,
+      "ItemName": "Guitar",
+      "BuyPrice": 24000.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 48103,
+      "ItemName": "How to Clap Your Hands",
+      "BuyPrice": 4500.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 48104,
+      "ItemName": "How to Whistle with Your Fingers",
+      "BuyPrice": 4500.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 48105,
+      "ItemName": "YES or NO",
+      "BuyPrice": 4500.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 48107,
+      "ItemName": "Guitar Stand",
+      "BuyPrice": 4200.00,
+      "SellPrice": 0.00
+    },
+    {
+      "MasterBundle": "morefarming_core",
+      "ID": 48111,
+      "ItemName": "Guitar Score (Shuffle Play)",
+      "BuyPrice": 3200.00,
+      "SellPrice": 0.00
     }
   ],
   "Vehicles": [
     {
       "MasterBundle": "california2",
+      "ID": 4000,
+      "VehicleName": "Police Interceptor",
+      "BuyPrice": 80000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4001,
+      "VehicleName": "Interceptor",
+      "BuyPrice": 52000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4002,
+      "VehicleName": "Hatchback",
+      "BuyPrice": 32000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4003,
+      "VehicleName": "Truck",
+      "BuyPrice": 120000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4004,
+      "VehicleName": "Offroader",
+      "BuyPrice": 58000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4005,
+      "VehicleName": "Sportscar",
+      "BuyPrice": 78000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4006,
+      "VehicleName": "Baja",
+      "BuyPrice": 62000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4007,
+      "VehicleName": "Roadster",
+      "BuyPrice": 88000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4008,
+      "VehicleName": "Flux",
+      "BuyPrice": 65000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4009,
+      "VehicleName": "Merc",
+      "BuyPrice": 85000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4010,
+      "VehicleName": "Navajo",
+      "BuyPrice": 650000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4012,
+      "VehicleName": "Bicycle",
+      "BuyPrice": 8000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4013,
+      "VehicleName": "Quad",
+      "BuyPrice": 18000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4014,
+      "VehicleName": "Royal",
+      "BuyPrice": 68000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4015,
+      "VehicleName": "Station Wagon",
+      "BuyPrice": 32000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4016,
+      "VehicleName": "Arcadia",
+      "BuyPrice": 170000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4017,
+      "VehicleName": "Van",
+      "BuyPrice": 180000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4018,
+      "VehicleName": "Yukon",
+      "BuyPrice": 78000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4019,
+      "VehicleName": "Wagon",
+      "BuyPrice": 45000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4022,
+      "VehicleName": "Unmarked Police Yukon",
+      "BuyPrice": 120000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4023,
+      "VehicleName": "Station Wagon",
+      "BuyPrice": 42000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4024,
+      "VehicleName": "Jetski",
+      "BuyPrice": 22000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4025,
+      "VehicleName": "Runabout",
+      "BuyPrice": 42000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4026,
+      "VehicleName": "Dinghy",
+      "BuyPrice": 38000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4027,
+      "VehicleName": "Upgraded Knight",
+      "BuyPrice": 180000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4028,
+      "VehicleName": "Indian",
+      "BuyPrice": 18000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4029,
+      "VehicleName": "Upgraded Yukon",
+      "BuyPrice": 130000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4030,
+      "VehicleName": "Upgraded Offroader",
+      "BuyPrice": 78000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4031,
+      "VehicleName": "Chopper",
+      "BuyPrice": 550000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4032,
+      "VehicleName": "Chopper",
+      "BuyPrice": 550000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4033,
+      "VehicleName": "Firetruck",
+      "BuyPrice": 135000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4034,
+      "VehicleName": "Ambulance",
+      "BuyPrice": 145000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4035,
+      "VehicleName": "Firetruck",
+      "BuyPrice": 135000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4036,
+      "VehicleName": "Station Wagon",
+      "BuyPrice": 42000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4071,
+      "VehicleName": "Kodiak",
+      "BuyPrice": 280000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4072,
+      "VehicleName": "Kodiak",
+      "BuyPrice": 280000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4075,
+      "VehicleName": "Matvee",
+      "BuyPrice": 260000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4076,
+      "VehicleName": "Matvee",
+      "BuyPrice": 260000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4121,
+      "VehicleName": "Abraham",
+      "BuyPrice": 350000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4123,
+      "VehicleName": "Fighter Jet",
+      "BuyPrice": 1500000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4125,
+      "VehicleName": "City Bus",
+      "BuyPrice": 160000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4127,
+      "VehicleName": "Sandpiper",
+      "BuyPrice": 450000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "california2",
       "ID": 4128,
       "VehicleName": "Hummingbird",
-      "BuyPrice": 10000.00,
+      "BuyPrice": 750000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "california2",
+      "ID": 4129,
+      "VehicleName": "Watchsun",
+      "BuyPrice": 450000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36030,
+      "VehicleName": "Black Morgan",
+      "BuyPrice": 65000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36031,
+      "VehicleName": "Blue Morgan",
+      "BuyPrice": 65000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36032,
+      "VehicleName": "Green Morgan",
+      "BuyPrice": 65000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36033,
+      "VehicleName": "Orange Morgan",
+      "BuyPrice": 65000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36034,
+      "VehicleName": "Purple Morgan",
+      "BuyPrice": 65000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36035,
+      "VehicleName": "Red Morgan",
+      "BuyPrice": 65000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36036,
+      "VehicleName": "White Morgan",
+      "BuyPrice": 65000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36037,
+      "VehicleName": "Yellow Morgan",
+      "BuyPrice": 65000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36060,
+      "VehicleName": "Black Wankr RX7",
+      "BuyPrice": 95000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36061,
+      "VehicleName": "Blue Wankr RX7",
+      "BuyPrice": 95000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36062,
+      "VehicleName": "Green Wankr RX7",
+      "BuyPrice": 95000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36063,
+      "VehicleName": "Orange Wankr RX7",
+      "BuyPrice": 95000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36064,
+      "VehicleName": "Purple Wankr RX7",
+      "BuyPrice": 95000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36065,
+      "VehicleName": "Red Wankr RX7",
+      "BuyPrice": 95000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36066,
+      "VehicleName": "White Wankr RX7",
+      "BuyPrice": 95000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36067,
+      "VehicleName": "Yellow Wankr RX7",
+      "BuyPrice": 95000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36068,
+      "VehicleName": "Dorito GT",
+      "BuyPrice": 180000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36070,
+      "VehicleName": "Black Groundline",
+      "BuyPrice": 110000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36071,
+      "VehicleName": "Blue Groundline",
+      "BuyPrice": 110000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36072,
+      "VehicleName": "Green Groundline",
+      "BuyPrice": 110000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36073,
+      "VehicleName": "Orange Groundline",
+      "BuyPrice": 110000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36074,
+      "VehicleName": "Purple Groundline",
+      "BuyPrice": 110000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36075,
+      "VehicleName": "Red Groundline",
+      "BuyPrice": 110000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36076,
+      "VehicleName": "White Groundline",
+      "BuyPrice": 110000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36077,
+      "VehicleName": "Yellow Groundline",
+      "BuyPrice": 110000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36100,
+      "VehicleName": "Black Kolibri",
+      "BuyPrice": 220000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36101,
+      "VehicleName": "Blue Kolibri",
+      "BuyPrice": 220000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36102,
+      "VehicleName": "Green Kolibri",
+      "BuyPrice": 220000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36103,
+      "VehicleName": "Orange Kolibri",
+      "BuyPrice": 220000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36104,
+      "VehicleName": "Purple Kolibri",
+      "BuyPrice": 220000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36105,
+      "VehicleName": "Red Kolibri",
+      "BuyPrice": 220000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36106,
+      "VehicleName": "White Kolibri",
+      "BuyPrice": 220000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36107,
+      "VehicleName": "Yellow Kolibri",
+      "BuyPrice": 220000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36139,
+      "VehicleName": "Revvie GT",
+      "BuyPrice": 170000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36150,
+      "VehicleName": "Black Dahon NSX",
+      "BuyPrice": 180000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36151,
+      "VehicleName": "Blue Dahon NSX",
+      "BuyPrice": 180000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36152,
+      "VehicleName": "Green Dahon NSX",
+      "BuyPrice": 180000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36153,
+      "VehicleName": "Orange Dahon NSX",
+      "BuyPrice": 180000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36154,
+      "VehicleName": "Red Dahon NSX",
+      "BuyPrice": 180000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36155,
+      "VehicleName": "Purple Dahon NSX",
+      "BuyPrice": 180000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36156,
+      "VehicleName": "White Dahon NSX",
+      "BuyPrice": 180000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36157,
+      "VehicleName": "Yellow Dahon NSX",
+      "BuyPrice": 180000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36200,
+      "VehicleName": "Black Hors F100 RoadRunner",
+      "BuyPrice": 85000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36201,
+      "VehicleName": "Blue Hors F100 RoadRunner",
+      "BuyPrice": 85000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36202,
+      "VehicleName": "Green Hors F100 RoadRunner",
+      "BuyPrice": 85000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36203,
+      "VehicleName": "Purple Hors F100 RoadRunner",
+      "BuyPrice": 85000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36204,
+      "VehicleName": "Orange Hors F100 RoadRunner",
+      "BuyPrice": 85000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36205,
+      "VehicleName": "Red Hors F100 RoadRunner",
+      "BuyPrice": 85000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36206,
+      "VehicleName": "White Hors F100 RoadRunner",
+      "BuyPrice": 85000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36207,
+      "VehicleName": "Yellow Hors F100 RoadRunner",
+      "BuyPrice": 85000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36220,
+      "VehicleName": "Black Doge Challenger",
+      "BuyPrice": 125000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36221,
+      "VehicleName": "Blue Doge Challenger",
+      "BuyPrice": 125000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36222,
+      "VehicleName": "Green Doge Challenger",
+      "BuyPrice": 125000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36223,
+      "VehicleName": "Orange Doge Challenger",
+      "BuyPrice": 125000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36224,
+      "VehicleName": "Purple Doge Challenger",
+      "BuyPrice": 125000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36225,
+      "VehicleName": "Red Doge Challenger",
+      "BuyPrice": 125000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36226,
+      "VehicleName": "White Doge Challenger",
+      "BuyPrice": 125000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36227,
+      "VehicleName": "Yellow Doge Challenger",
+      "BuyPrice": 125000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36250,
+      "VehicleName": "Black MB729",
+      "BuyPrice": 450000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36251,
+      "VehicleName": "Blue MB729",
+      "BuyPrice": 450000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36252,
+      "VehicleName": "Brown MB729",
+      "BuyPrice": 450000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36253,
+      "VehicleName": "Green MB729",
+      "BuyPrice": 450000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36260,
+      "VehicleName": "Black Spitfire",
+      "BuyPrice": 900000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36261,
+      "VehicleName": "Blue Spitfire",
+      "BuyPrice": 900000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36262,
+      "VehicleName": "Green Spitfire",
+      "BuyPrice": 900000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36263,
+      "VehicleName": "Orange Spitfire",
+      "BuyPrice": 900000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36264,
+      "VehicleName": "Purple Spitfire",
+      "BuyPrice": 900000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36265,
+      "VehicleName": "Red Spitfire",
+      "BuyPrice": 900000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36266,
+      "VehicleName": "White Spitfire",
+      "BuyPrice": 900000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36267,
+      "VehicleName": "Yellow Spitfire",
+      "BuyPrice": 900000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36300,
+      "VehicleName": "Black Cavallo F40",
+      "BuyPrice": 500000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36301,
+      "VehicleName": "Blue Cavallo F40",
+      "BuyPrice": 500000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36302,
+      "VehicleName": "Green Cavallo F40",
+      "BuyPrice": 500000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36303,
+      "VehicleName": "Orange Cavallo F40",
+      "BuyPrice": 500000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36304,
+      "VehicleName": "Purple Cavallo F40",
+      "BuyPrice": 500000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36305,
+      "VehicleName": "Red Cavallo F40",
+      "BuyPrice": 500000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36306,
+      "VehicleName": "White Cavallo F40",
+      "BuyPrice": 500000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36307,
+      "VehicleName": "Yellow Cavallo F40",
+      "BuyPrice": 500000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36320,
+      "VehicleName": "Black Hors Bronco",
+      "BuyPrice": 110000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36321,
+      "VehicleName": "Blue Hors Bronco",
+      "BuyPrice": 110000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36322,
+      "VehicleName": "Green Hors Bronco",
+      "BuyPrice": 110000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36323,
+      "VehicleName": "Orange Hors Bronco",
+      "BuyPrice": 110000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36324,
+      "VehicleName": "Purple Hors Bronco",
+      "BuyPrice": 110000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36325,
+      "VehicleName": "Red Hors Bronco",
+      "BuyPrice": 110000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36326,
+      "VehicleName": "White Hors Bronco",
+      "BuyPrice": 110000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36327,
+      "VehicleName": "Yellow Hors Bronco",
+      "BuyPrice": 110000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 36350,
+      "VehicleName": "Black LuxDX",
+      "BuyPrice": 400000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 36351,
+      "VehicleName": "Blue LuxDX",
+      "BuyPrice": 400000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 36352,
+      "VehicleName": "Green LuxDX",
+      "BuyPrice": 400000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 36353,
+      "VehicleName": "Orange LuxDX",
+      "BuyPrice": 400000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 36354,
+      "VehicleName": "Purple LuxDX",
+      "BuyPrice": 400000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 36355,
+      "VehicleName": "Red LuxDX",
+      "BuyPrice": 400000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 36356,
+      "VehicleName": "White LuxDX",
+      "BuyPrice": 400000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 36357,
+      "VehicleName": "Yellow LuxDX",
+      "BuyPrice": 400000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36388,
+      "VehicleName": "WMB E39 M5 W-ART",
+      "BuyPrice": 650000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36390,
+      "VehicleName": "Black Royce Phantom",
+      "BuyPrice": 350000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36391,
+      "VehicleName": "Blue Royce Phantom",
+      "BuyPrice": 350000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36392,
+      "VehicleName": "Green Royce Phantom",
+      "BuyPrice": 350000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36393,
+      "VehicleName": "Orange Royce Phantom",
+      "BuyPrice": 350000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36394,
+      "VehicleName": "Purple Royce Phantom",
+      "BuyPrice": 350000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36395,
+      "VehicleName": "Red Royce Phantom",
+      "BuyPrice": 350000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36396,
+      "VehicleName": "White Royce Phantom",
+      "BuyPrice": 350000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36397,
+      "VehicleName": "Yellow Royce Phantom",
+      "BuyPrice": 350000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36409,
+      "VehicleName": "Iklas Limousine",
+      "BuyPrice": 140000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36430,
+      "VehicleName": "Black Off-Road Jogger",
+      "BuyPrice": 550000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36431,
+      "VehicleName": "Blue Off-Road Jogger",
+      "BuyPrice": 550000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36432,
+      "VehicleName": "Green Off-Road Jogger",
+      "BuyPrice": 550000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36433,
+      "VehicleName": "Orange Off-Road Jogger",
+      "BuyPrice": 550000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36434,
+      "VehicleName": "Purple Off-Road Jogger",
+      "BuyPrice": 550000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36435,
+      "VehicleName": "Red Off-Road Jogger",
+      "BuyPrice": 550000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36436,
+      "VehicleName": "White Off-Road Jogger",
+      "BuyPrice": 550000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36437,
+      "VehicleName": "Yellow Off-Road Jogger",
+      "BuyPrice": 550000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 36500,
+      "VehicleName": "Black Rudth",
+      "BuyPrice": 350000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 36501,
+      "VehicleName": "Blue Rudth",
+      "BuyPrice": 350000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 36502,
+      "VehicleName": "Green Rudth",
+      "BuyPrice": 350000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 36503,
+      "VehicleName": "Orange Rudth",
+      "BuyPrice": 350000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 36504,
+      "VehicleName": "Purple Rudth",
+      "BuyPrice": 350000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 36505,
+      "VehicleName": "Red Rudth",
+      "BuyPrice": 350000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 36506,
+      "VehicleName": "White Rudth",
+      "BuyPrice": 350000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 36507,
+      "VehicleName": "Yellow Rudth",
+      "BuyPrice": 350000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36510,
+      "VehicleName": "Black Scandi S650 Box Truck",
+      "BuyPrice": 220000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36511,
+      "VehicleName": "Blue Scandi S650 Box Truck",
+      "BuyPrice": 220000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36512,
+      "VehicleName": "Green Scandi S650 Box Truck",
+      "BuyPrice": 220000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36513,
+      "VehicleName": "Orange Scandi S650 Box Truck",
+      "BuyPrice": 220000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36514,
+      "VehicleName": "Purple Scandi S650 Box Truck",
+      "BuyPrice": 220000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36515,
+      "VehicleName": "Red Scandi S650 Box Truck",
+      "BuyPrice": 220000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36516,
+      "VehicleName": "White Scandi S650 Box Truck",
+      "BuyPrice": 220000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36517,
+      "VehicleName": "Yellow Scandi S650 Box Truck",
+      "BuyPrice": 220000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36530,
+      "VehicleName": "Black Avvtr",
+      "BuyPrice": 850000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36531,
+      "VehicleName": "Grey Avvtr",
+      "BuyPrice": 850000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36532,
+      "VehicleName": "Green Avvtr",
+      "BuyPrice": 850000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36550,
+      "VehicleName": "Black Obery",
+      "BuyPrice": 280000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36551,
+      "VehicleName": "Blue Obery",
+      "BuyPrice": 280000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36552,
+      "VehicleName": "Green Obery",
+      "BuyPrice": 280000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36553,
+      "VehicleName": "Orange Obery",
+      "BuyPrice": 280000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36554,
+      "VehicleName": "Purple Obery",
+      "BuyPrice": 280000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36555,
+      "VehicleName": "Red Obery",
+      "BuyPrice": 280000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36556,
+      "VehicleName": "White Obery",
+      "BuyPrice": 280000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36557,
+      "VehicleName": "Yellow Obery",
+      "BuyPrice": 280000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36560,
+      "VehicleName": "Black Rimacci Chiron",
+      "BuyPrice": 1100000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36561,
+      "VehicleName": "Blue Rimacci Chiron",
+      "BuyPrice": 1100000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36562,
+      "VehicleName": "Green Rimacci Chiron",
+      "BuyPrice": 1100000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36563,
+      "VehicleName": "Orange Rimacci Chiron",
+      "BuyPrice": 1100000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36564,
+      "VehicleName": "Purple Rimacci Chiron",
+      "BuyPrice": 1100000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36565,
+      "VehicleName": "Red Rimacci Chiron",
+      "BuyPrice": 1100000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36566,
+      "VehicleName": "White Rimacci Chiron",
+      "BuyPrice": 1100000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36567,
+      "VehicleName": "Yellow Rimacci Chiron",
+      "BuyPrice": 1100000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36570,
+      "VehicleName": "Black Cavallo F8",
+      "BuyPrice": 600000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36571,
+      "VehicleName": "Blue Cavallo F8",
+      "BuyPrice": 600000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36572,
+      "VehicleName": "Green Cavallo F8",
+      "BuyPrice": 600000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36573,
+      "VehicleName": "Orange Cavallo F8",
+      "BuyPrice": 600000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36574,
+      "VehicleName": "Purple Cavallo F8",
+      "BuyPrice": 600000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36575,
+      "VehicleName": "Red Cavallo F8",
+      "BuyPrice": 600000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36576,
+      "VehicleName": "White Cavallo F8",
+      "BuyPrice": 600000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36577,
+      "VehicleName": "Yellow Cavallo F8",
+      "BuyPrice": 600000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36580,
+      "VehicleName": "Black Austin Martin Victor",
+      "BuyPrice": 700000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36581,
+      "VehicleName": "Blue Austin Martin Victor",
+      "BuyPrice": 700000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36582,
+      "VehicleName": "Green Austin Martin Victor",
+      "BuyPrice": 700000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36583,
+      "VehicleName": "Orange Austin Martin Victor",
+      "BuyPrice": 700000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36584,
+      "VehicleName": "Purple Austin Martin Victor",
+      "BuyPrice": 700000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36585,
+      "VehicleName": "Red Austin Martin Victor",
+      "BuyPrice": 700000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36586,
+      "VehicleName": "White Austin Martin Victor",
+      "BuyPrice": 700000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36587,
+      "VehicleName": "Yellow Austin Martin Victor",
+      "BuyPrice": 700000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36600,
+      "VehicleName": "Black Off-Road Phoenix",
+      "BuyPrice": 280000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36601,
+      "VehicleName": "Blue Off-Road Phoenix",
+      "BuyPrice": 280000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36602,
+      "VehicleName": "Green Off-Road Phoenix",
+      "BuyPrice": 280000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36603,
+      "VehicleName": "Orange Off-Road Phoenix",
+      "BuyPrice": 280000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36604,
+      "VehicleName": "Purple Off-Road Phoenix",
+      "BuyPrice": 280000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36605,
+      "VehicleName": "Red Off-Road Phoenix",
+      "BuyPrice": 280000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36606,
+      "VehicleName": "White Off-Road Phoenix",
+      "BuyPrice": 280000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36607,
+      "VehicleName": "Yellow Off-Road Phoenix",
+      "BuyPrice": 280000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36630,
+      "VehicleName": "Black Monster Truck",
+      "BuyPrice": 350000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36631,
+      "VehicleName": "Blue Monster Truck",
+      "BuyPrice": 350000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36632,
+      "VehicleName": "Green Monster Truck",
+      "BuyPrice": 350000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36633,
+      "VehicleName": "Orange Monster Truck",
+      "BuyPrice": 350000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36634,
+      "VehicleName": "Purple Monster Truck",
+      "BuyPrice": 350000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36635,
+      "VehicleName": "Red Monster Truck",
+      "BuyPrice": 350000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36636,
+      "VehicleName": "White Monster Truck",
+      "BuyPrice": 350000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36637,
+      "VehicleName": "Yellow Monster Truck",
+      "BuyPrice": 350000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36700,
+      "VehicleName": "Black Rivera",
+      "BuyPrice": 280000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36701,
+      "VehicleName": "Blue Rivera",
+      "BuyPrice": 280000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36702,
+      "VehicleName": "Green Rivera",
+      "BuyPrice": 280000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36703,
+      "VehicleName": "Orange Rivera",
+      "BuyPrice": 280000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36704,
+      "VehicleName": "Purple Rivera",
+      "BuyPrice": 280000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36705,
+      "VehicleName": "Red Rivera",
+      "BuyPrice": 280000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36706,
+      "VehicleName": "White Rivera",
+      "BuyPrice": 280000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36707,
+      "VehicleName": "Yellow Rivera",
+      "BuyPrice": 280000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36708,
+      "VehicleName": "Police Rivera",
+      "BuyPrice": 280000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36709,
+      "VehicleName": "EMS Rivera",
+      "BuyPrice": 280000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36730,
+      "VehicleName": "Black WMB Z4 Shooting Brake",
+      "BuyPrice": 130000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36731,
+      "VehicleName": "Blue WMB Z4 Shooting Brake",
+      "BuyPrice": 130000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36732,
+      "VehicleName": "Green WMB Z4 Shooting Brake",
+      "BuyPrice": 130000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36733,
+      "VehicleName": "Orange WMB Z4 Shooting Brake",
+      "BuyPrice": 130000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36734,
+      "VehicleName": "Purple WMB Z4 Shooting Brake",
+      "BuyPrice": 130000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36735,
+      "VehicleName": "Red WMB Z4 Shooting Brake",
+      "BuyPrice": 130000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36736,
+      "VehicleName": "White WMB Z4 Shooting Brake",
+      "BuyPrice": 130000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36737,
+      "VehicleName": "Yellow WMB Z4 Shooting Brake",
+      "BuyPrice": 130000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36748,
+      "VehicleName": "W-ART WMB E30",
+      "BuyPrice": 150000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36760,
+      "VehicleName": "Black Viking",
+      "BuyPrice": 700000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36761,
+      "VehicleName": "Blue Viking",
+      "BuyPrice": 700000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36762,
+      "VehicleName": "Green Viking",
+      "BuyPrice": 700000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36763,
+      "VehicleName": "Orange Viking",
+      "BuyPrice": 700000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36764,
+      "VehicleName": "Purple Viking",
+      "BuyPrice": 700000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36765,
+      "VehicleName": "Red Viking",
+      "BuyPrice": 700000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36766,
+      "VehicleName": "White Viking",
+      "BuyPrice": 700000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36767,
+      "VehicleName": "Yellow Viking",
+      "BuyPrice": 700000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36790,
+      "VehicleName": "Black Hors E350",
+      "BuyPrice": 140000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36791,
+      "VehicleName": "Blue Hors E350",
+      "BuyPrice": 140000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36792,
+      "VehicleName": "Green Hors E350",
+      "BuyPrice": 140000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36793,
+      "VehicleName": "Orange Hors E350",
+      "BuyPrice": 140000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36794,
+      "VehicleName": "Purple Hors E350",
+      "BuyPrice": 140000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36795,
+      "VehicleName": "Red Hors E350",
+      "BuyPrice": 140000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36796,
+      "VehicleName": "White Hors E350",
+      "BuyPrice": 140000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36797,
+      "VehicleName": "Yellow Hors E350",
+      "BuyPrice": 140000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36798,
+      "VehicleName": "EMS Transit",
+      "BuyPrice": 140000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36810,
+      "VehicleName": "Black Pioneer SandRacer",
+      "BuyPrice": 600000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36811,
+      "VehicleName": "Black Pioneer SandRacer",
+      "BuyPrice": 600000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36812,
+      "VehicleName": "Black Pioneer SandRacer",
+      "BuyPrice": 600000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36813,
+      "VehicleName": "Black Pioneer SandRacer",
+      "BuyPrice": 600000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36814,
+      "VehicleName": "Black Pioneer SandRacer",
+      "BuyPrice": 600000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36815,
+      "VehicleName": "Black Pioneer SandRacer",
+      "BuyPrice": 600000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36816,
+      "VehicleName": "Black Pioneer SandRacer",
+      "BuyPrice": 600000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36817,
+      "VehicleName": "Black Pioneer SandRacer",
+      "BuyPrice": 600000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36818,
+      "VehicleName": "Black Pioneer SandRacer",
+      "BuyPrice": 600000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36820,
+      "VehicleName": "Spotter",
+      "BuyPrice": 220000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36821,
+      "VehicleName": "Scout",
+      "BuyPrice": 150000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36830,
+      "VehicleName": "Black Dorphine AS365",
+      "BuyPrice": 750000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36831,
+      "VehicleName": "Blue Dorphine AS365",
+      "BuyPrice": 750000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36832,
+      "VehicleName": "Green Dorphine AS365",
+      "BuyPrice": 750000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36833,
+      "VehicleName": "White Dorphine AS365",
+      "BuyPrice": 750000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36834,
+      "VehicleName": "Coast Guard Auguz",
+      "BuyPrice": 750000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36835,
+      "VehicleName": "Rescue Squad Auguz",
+      "BuyPrice": 750000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36836,
+      "VehicleName": "Police Dorphine AS365",
+      "BuyPrice": 750000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36849,
+      "VehicleName": "New Bumble GT",
+      "BuyPrice": 350000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 36870,
+      "VehicleName": "Black Kumaz",
+      "BuyPrice": 550000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 36871,
+      "VehicleName": "Blue Kumaz",
+      "BuyPrice": 550000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 36872,
+      "VehicleName": "Green Kumaz",
+      "BuyPrice": 550000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 36873,
+      "VehicleName": "Orange Kumaz",
+      "BuyPrice": 550000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 36874,
+      "VehicleName": "Purple Kumaz",
+      "BuyPrice": 550000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 36875,
+      "VehicleName": "Red Kumaz",
+      "BuyPrice": 550000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 36876,
+      "VehicleName": "White Kumaz",
+      "BuyPrice": 550000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 36877,
+      "VehicleName": "Yellow Kumaz",
+      "BuyPrice": 550000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36910,
+      "VehicleName": "Black Survivor Tersk",
+      "BuyPrice": 500000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36911,
+      "VehicleName": "Blue Survivor Tersk",
+      "BuyPrice": 500000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36912,
+      "VehicleName": "Green Survivor Tersk",
+      "BuyPrice": 500000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36913,
+      "VehicleName": "Orange Survivor Tersk",
+      "BuyPrice": 500000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36914,
+      "VehicleName": "Purple Survivor Tersk",
+      "BuyPrice": 500000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36915,
+      "VehicleName": "Red Survivor Tersk",
+      "BuyPrice": 500000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36916,
+      "VehicleName": "White Survivor Tersk",
+      "BuyPrice": 500000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 36917,
+      "VehicleName": "Yellow Survivor Tersk",
+      "BuyPrice": 500000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36920,
+      "VehicleName": "Black Hors E350 Cargo",
+      "BuyPrice": 240000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36921,
+      "VehicleName": "Blue Hors E350 Cargo",
+      "BuyPrice": 240000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36922,
+      "VehicleName": "Green Hors E350 Cargo",
+      "BuyPrice": 240000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36923,
+      "VehicleName": "Orange Hors E350 Cargo",
+      "BuyPrice": 240000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36924,
+      "VehicleName": "Purple Hors E350 Cargo",
+      "BuyPrice": 240000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36925,
+      "VehicleName": "Red Hors E350 Cargo",
+      "BuyPrice": 240000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36926,
+      "VehicleName": "White Hors E350 Cargo",
+      "BuyPrice": 240000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36927,
+      "VehicleName": "Yellow Hors E350 Cargo",
+      "BuyPrice": 240000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36970,
+      "VehicleName": "Black Hors GT",
+      "BuyPrice": 750000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36971,
+      "VehicleName": "Blue Hors GT",
+      "BuyPrice": 750000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36972,
+      "VehicleName": "Green Hors GT",
+      "BuyPrice": 750000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36973,
+      "VehicleName": "Orange Hors GT",
+      "BuyPrice": 750000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36974,
+      "VehicleName": "Purple Hors GT",
+      "BuyPrice": 750000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36975,
+      "VehicleName": "Red Hors GT",
+      "BuyPrice": 750000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36976,
+      "VehicleName": "White Hors GT",
+      "BuyPrice": 750000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 36977,
+      "VehicleName": "Yellow Hors GT",
+      "BuyPrice": 750000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 37030,
+      "VehicleName": "Black Mekq Flatbed",
+      "BuyPrice": 320000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 37031,
+      "VehicleName": "Blue Mekq Flatbed",
+      "BuyPrice": 320000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 37032,
+      "VehicleName": "Green Mekq Flatbed",
+      "BuyPrice": 320000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 37033,
+      "VehicleName": "Orange Mekq Flatbed",
+      "BuyPrice": 320000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 37034,
+      "VehicleName": "Purple Mekq Flatbed",
+      "BuyPrice": 320000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 37035,
+      "VehicleName": "Red Mekq Flatbed",
+      "BuyPrice": 320000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 37036,
+      "VehicleName": "White Mekq Flatbed",
+      "BuyPrice": 320000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 37037,
+      "VehicleName": "Yellow Mekq Flatbed",
+      "BuyPrice": 320000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2remaster",
+      "ID": 37049,
+      "VehicleName": "Black Callidac DTS Limo",
+      "BuyPrice": 120000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 37110,
+      "VehicleName": "Survivor Black Pegasus",
+      "BuyPrice": 550000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 37111,
+      "VehicleName": "Survivor Blue Pegasus",
+      "BuyPrice": 550000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 37112,
+      "VehicleName": "Survivor Green Pegasus",
+      "BuyPrice": 550000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 37113,
+      "VehicleName": "Survivor Orange Pegasus",
+      "BuyPrice": 550000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 37114,
+      "VehicleName": "Survivor Purple Pegasus",
+      "BuyPrice": 550000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 37115,
+      "VehicleName": "Survivor Red Pegasus",
+      "BuyPrice": 550000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 37116,
+      "VehicleName": "Survivor White Pegasus",
+      "BuyPrice": 550000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 37117,
+      "VehicleName": "Survivor Yellow Pegasus",
+      "BuyPrice": 550000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 37130,
+      "VehicleName": "Survivor Black Bumble",
+      "BuyPrice": 160000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 37131,
+      "VehicleName": "Survivor Blue Bumble",
+      "BuyPrice": 160000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 37132,
+      "VehicleName": "Survivor Green Bumble",
+      "BuyPrice": 160000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 37133,
+      "VehicleName": "Survivor Orange Bumble",
+      "BuyPrice": 160000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 37134,
+      "VehicleName": "Survivor Purple Bumble",
+      "BuyPrice": 160000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 37135,
+      "VehicleName": "Survivor Red Bumble",
+      "BuyPrice": 160000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 37136,
+      "VehicleName": "Survivor White Bumble",
+      "BuyPrice": 160000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vv2update",
+      "ID": 37137,
+      "VehicleName": "Survivor Yellow Bumble",
+      "BuyPrice": 160000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 38570,
+      "VehicleName": "Black Zipp8 Survival",
+      "BuyPrice": 700000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 38571,
+      "VehicleName": "Blue Zipp8 Survival",
+      "BuyPrice": 700000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 38572,
+      "VehicleName": "Green Zipp8 Survival",
+      "BuyPrice": 700000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 38573,
+      "VehicleName": "Orange Zipp8 Survival",
+      "BuyPrice": 700000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 38574,
+      "VehicleName": "Purple Zipp8 Survival",
+      "BuyPrice": 700000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 38575,
+      "VehicleName": "Red Zipp8 Survival",
+      "BuyPrice": 700000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 38576,
+      "VehicleName": "White Zipp8 Survival",
+      "BuyPrice": 700000.00,
+      "SellPrice": 0.0
+    },
+    {
+      "MasterBundle": "vanillavehicles2",
+      "ID": 38577,
+      "VehicleName": "Yellow Zipp8 Survival",
+      "BuyPrice": 700000.00,
       "SellPrice": 0.0
     }
   ]
