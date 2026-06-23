@@ -4,6 +4,21 @@ require 'json'
 require 'net/http'
 require 'uri'
 
+def origin_from_master_bundle(entry)
+  master_bundle = entry['MasterBundle'] || entry['masterBundle'] || entry['master_bundle']
+
+  case master_bundle.to_s.strip.downcase
+  when 'california2'
+    'california-2'
+  when 'morefarming_core'
+    'more-farming-mod'
+  when 'core'
+    'vanilla'
+  else
+    nil
+  end
+end
+
 def enrich_shop_entries(entries, category, base_uri)
   return unless entries.is_a?(Array)
 
@@ -17,8 +32,12 @@ def enrich_shop_entries(entries, category, base_uri)
     entry_id = entry['ID'] || entry['id']
     next if entry_id.nil? || entry_id.to_s.strip.empty?
 
+    origin = origin_from_master_bundle(entry)
+    next if origin.nil?
+
     params = {
       'query' => entry_id.to_s,
+      'origin' => origin,
       'category' => category,
       'maxResults' => '2'
     }
