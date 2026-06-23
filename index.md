@@ -13,6 +13,7 @@ hide_title: true
 - [Dingus](https://steamcommunity.com/sharedfiles/filedetails/?id=2903473715)
 - [More Farming Mod - Core](https://steamcommunity.com/sharedfiles/filedetails/?id=3729650953)
 - [More Farming Mod - California 2](https://steamcommunity.com/sharedfiles/filedetails/?id=3734459367)
+- [Vanilla Vehicles 2 R.](https://steamcommunity.com/sharedfiles/filedetails/?id=2365700338)
 - [Zoidberg FM Cali](https://steamcommunity.com/sharedfiles/filedetails/?id=3723007714)
 
 ## Features
