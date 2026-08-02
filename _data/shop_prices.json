@@ -7969,13 +7969,6 @@
   ],
   "Vehicles": [
     {
-      "MasterBundle": null,
-      "ID": 0,
-      "VehicleName": "Black JPM Sonic",
-      "BuyPrice": 4000000.00,
-      "SellPrice": 0.0
-    },
-    {
       "MasterBundle": "core",
       "ID": 1,
       "VehicleName": "Off_Roader_Black",
