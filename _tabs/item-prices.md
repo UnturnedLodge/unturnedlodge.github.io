@@ -99,6 +99,7 @@ title: Item prices
 					{% assign item_buy = item.BuyPrice | default: 0 | plus: 0 %}
 					{% assign item_sell = item.SellPrice | default: 0 | plus: 0 %}
 					{% assign item_url = item.url %}
+					{% unless item_buy == 0 and item_sell == 0 %}
 					<tr>
 						<td class="icon-cell">
 							{% if item.iconUrl %}
@@ -117,6 +118,7 @@ title: Item prices
 						<td class="item-buy">{{ item_buy | round: 0 }}</td>
 						<td class="item-sell">{% if item_sell == 0 %}{% else %}{{ item_sell | round: 0 }}{% endif %}</td>
 					</tr>
+					{% endunless %}
 				{% endfor %}
 			{% else %}
 				<tr>

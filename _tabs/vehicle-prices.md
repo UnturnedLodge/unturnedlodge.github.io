@@ -95,6 +95,7 @@ title: Vehicle prices
 				{% for vehicle in vehicles %}
 					{% assign vehicle_buy = vehicle.BuyPrice | default: 0 | plus: 0 %}
 					{% assign vehicle_url = vehicle.url %}
+					{% unless vehicle_buy == 0 %}
 					<tr>
 						<td class="icon-cell">
 							{% if vehicle.iconUrl %}
@@ -112,6 +113,7 @@ title: Vehicle prices
 						</td>
 						<td class="vehicle-buy">{{ vehicle_buy | round: 0 }}</td>
 					</tr>
+					{% endunless %}
 				{% endfor %}
 			{% else %}
 				<tr>
