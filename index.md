@@ -14,7 +14,7 @@ hide_title: true
 - [More Farming Mod - Vanilla Maps](https://steamcommunity.com/sharedfiles/filedetails/?id=3733714308)
 - [Alicepack+](https://steamcommunity.com/sharedfiles/filedetails/?id=2679834296)
 - [Extended Storage - Vanilla](https://steamcommunity.com/sharedfiles/filedetails/?id=2459189599)
-- [Multiple Structure | Structure Only](https://steamcommunity.com/sharedfiles/filedetails/?id=3326123134)
+- [Multiple Structure - Structure Only](https://steamcommunity.com/sharedfiles/filedetails/?id=3326123134)
 - [Vanilla Architecture by JP](https://steamcommunity.com/sharedfiles/filedetails/?id=2972744435)
 
 ## Features
