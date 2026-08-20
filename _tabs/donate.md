@@ -28,10 +28,10 @@ Our ranks are designed as quality-of-life upgrades and are not pay-to-win.
 Survival, looting, exploration and progression remain an important part of the server experience.
 
 Every donation directly supports:
- • Server hosting
- • Plugins & upgrades
- • Future improvements
- • Keeping the server alive long-term
+ - Server hosting
+ - Plugins & upgrades
+ - Future improvements
+ - Keeping the server alive long-term
 
 ## Thank you for supporting Unturned Lodge and helping our small community grow! 🌲
 
