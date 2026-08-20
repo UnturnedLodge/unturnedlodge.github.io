@@ -16,7 +16,7 @@ hide_title: true
 - [AMIO reforged](https://steamcommunity.com/sharedfiles/filedetails/?id=3763748935)
 - [California Legacy](https://steamcommunity.com/sharedfiles/filedetails/?id=1905768396)
 - [Dingus](https://steamcommunity.com/sharedfiles/filedetails/?id=2903473715)
-- [Extended Storage | Vanilla](https://steamcommunity.com/sharedfiles/filedetails/?id=2459189599)
+- [Extended Storage - Vanilla](https://steamcommunity.com/sharedfiles/filedetails/?id=2459189599)
 - [Fast HUD](https://steamcommunity.com/sharedfiles/filedetails/?id=3784438113)
 - [Furniture Expansion](https://steamcommunity.com/sharedfiles/filedetails/?id=877777769)
 - [Greece](https://steamcommunity.com/sharedfiles/filedetails/?id=1702240229)
