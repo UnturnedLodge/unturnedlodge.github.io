@@ -25,15 +25,15 @@ Running and maintaining the server costs money every month.
 | **Chat tag**                  | [Player]  | [Donator] | [VIP] |
 
 
-Every donation directly supports:
+## Every donation directly supports:
  - Server hosting
  - Plugins & upgrades
  - Future improvements
  - Keeping the server alive long-term
 
+
 Our ranks are designed as quality-of-life upgrades and are not pay-to-win.
 Survival, looting, exploration and progression remain an important part of the server experience.
-
 ## Thank you for supporting Unturned Lodge and helping our small community grow! 🌲
 
 [Donation Link](https://ko-fi.com/unturnedlodge)
